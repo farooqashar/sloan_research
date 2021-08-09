@@ -1,0 +1,201 @@
+﻿Legal Personhood and AI 2
+Ashar Farooq
+November 1st, 2020
+
+
+
+
+Overview of Content: 
+
+
+Corporate Personhood
+Corporations as People with Rights
+EU Legal AI Personhood Developments
+
+
+Notes: 
+* In Citizens United v. FEC, the Supreme Court revolutionized constitutional law when it declared "First Amendment protection extends to corporations”.
+* The Court held that corporations were persons capable of exercising religious liberty in the June 2014 decision of Burwell v. Hobby Lobby.
+*   * University of Pennsylvania Law Review- The Constitutional Standing Of Corporations by Brandon L. Garrett(Professor of Law, University of Virginia School of Law) [2014]
+   * Covers mostly all details of corporate and constitutional personhood
+   * Relatively long
+   * EU has proposed an “electronic personality” for advanced AI, met with quite a bit of backlash
+   * Stetson Law Review- Thoughts On The Corporation As A Person For Purposes Of Corporate Criminal Liability [2011] by Joan MacLeod Heminway(College of Law Distinguished Professor of Law, The University of Tennessee College of Law)
+   * Whether corporations potentially should be charged as criminal defendants has been and continues to be an important and contentious subject in American jurisprudence. On one hand, corporations- as economic, social, political, and legal actors-have the capacity to commit crimes. On the other hand, corporations cannot take criminal action independent of the actions of their agents, who are natural persons. It is the corporation’s authorized agent, typically an officer or other employee, who executes contracts for the corporation, commits the corporation to liabilities and other obligations, and receives and processes the benefits of the corporation.
+   * Some legal controversies involving corporate personhood, like the one at issue in Citizens United, involve the interpretation of constitutional, statutory, or decisional law as applied in contexts of personal liability—civil or criminal. But state criminal statutes (unlike the First Amendment to the United States Constitution) may expressly employ the word “person” and define it to include corporations and other entities.
+   * Fordham Law Review - Liability for AI Decision-Making: Some Legal and Ethical Considerations [2019] by Dr. Iria Giuffrida(Visiting Assistant Professor of Law and Deputy Director, Center for Legal & Court Technology, William & Mary Law School)
+   * From a liability perspective, where these AI technologies communicate and engage with one another, the potential culpability for anything that could go wrong shifts from one component to another as easily and quickly as the data transferred between them. Deciding who is responsible for what when something has gone wrong in a given case can be layered when many parties come into play. There are AI developers; algorithm trainers; data collectors, controllers, and processors; manufacturers of the devices incorporating the AI software; owners of the software (which are not necessarily the developers); and the final users of the devices (and perhaps many more related hands in the pot).
+   * In the complex AI Ecosystem, a plaintiff would need to establish whom to sue. If liability is hard to pin onto a particular tortfeasor (or group of tortfeasors), why could the AI itself not be held liable if we were to treat AI systems as we do corporations? In tort law, the concept of joint and several liability or the ability to sue anyone in the commercial chain for products liability claims suggests the likelihood of multiple possible defendants, especially as plaintiffs take into account the traditional interest in reaching a “deep pocket” capable of paying large damages. Absent use of comprehensive waivers, the AI Ecosystem will likely produce harms that will be litigated under traditional tort law.
+   * If we are to use a compensation-oriented system for AI Ecosystem harms, a more general approach may be useful
+   * If we use regulation rather than tort suits, regulators will have to decide optimal risk tolerances: how much harm are we willing to allow to obtain the social benefits of AI? More lenient liability rules will allow more harms to go uncompensated, but this in turn incentivizes more—and especially smaller—developers to innovate and potentially create better AI systems without the fear of large lawsuits
+   * The laws of the United States hold that a legal entity (like a corporation or non-profit organization) shall be treated under the law as a person except when otherwise noted. This rule of construction is specified in 1 U.S.C. §1 (United States Code), which states:
+In determining the meaning of any Act of Congress, unless the context indicates otherwise—the words "person" and "whoever" include corporations, companies, associations, firms, partnerships, societies, and joint stock companies, as well as individuals;
+   * In a resolution of 2017, the European Parliament urged the European Commission to propose what it called “electronic personality” for sophisticated autonomous robots.
+   * Open Letter Response Against This with Strong Reasoning
+   * European Commission Future Strategy (April 2018)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   1. ARTICLE: The Corporate Personhood Two-Step, 18 Nev. L.J. 811
+Spring  2018 
+Nevada Law Journal
+
+
+Carliss N. Chatman
+Assistant Professor, Northern Illinois University College of Law (J.D., The University of Texas at Austin School of Law; B.A., Duke University)
+Notes: 
+   * Corporate personhood and constitutional rights derived solely from the rights of the people who make up the corporation are outside of the scope of what the corporate founders intended when choosing the corporate form.
+   * The corporation is a legal person in various respects, but it is not equal to a human being. Corporations are uniquely positioned socially and economically. A corporation is not a human, not a manifestation of a document, and not a state actor.
+   * The Supreme Court first directly addressed the nature of the corporation in Trustees of Dartmouth College v. Woodward. Expressing the artificial entity theory, John Marshall states the following:
+   * “A corporation is an artificial being, invisible, intangible, and existing only in contemplation of law. Being the mere creature of law, it possesses only those properties which the charter of its creation confers upon it, either expressly, or as incidental to its very existence. These are such as are supposed best calculated to effect the object for which it was created”
+   * Under the artificial entity theory, these rights are merely the result of what is granted during the chartering process; the corporation does not enter the state with rights, but the state cannot deny the rights that accompany state sanctioned activities.
+   * Chief Justice Marshall's view of the corporation also included the aggregate theory, which views the corporation's rights as indistinguishable from the rights of the people who make up and own the corporation - shareholders.  Chief Justice Marshall first proposed the aggregate theory in Bank of United States v. Deveaux, holding that a corporation cannot sue unless it is viewed as a company of individuals, represented by a corporate name. 
+   * Citizens United Case
+   * Justice Scalia's concurrence in Citizens United conveys a belief that the founding fathers' silence on corporations within the text of the Constitution indicates an intention to include corporations in the rights given to persons.
+   * Justice Stevens recounts all the ways a corporation is not a natural person: corporations enjoy limited shareholder liability, perpetual life; separation of ownership of property and its control; corporations also have no consciences, no beliefs, no feelings, no thoughts or desires. 
+   * The majority in Citizens United holds that corporations have the same First Amendment rights as natural persons; therefore, restrictions on corporate spending in election campaigns are unconstitutional.   In reaching this conclusion, the majority explicitly stated that it did not adhere to any one theory of corporate personhood.   This puts Citizens United on trend with other cases that personify the corporation without acknowledging a theory of corporate personhood.
+   * Burwell v. Hobby Lobby Stores illustrates how Citizens United declarations combined with the aggregate theory continues to improperly expand rights based on incorrect beliefs regarding corporate governance.  Hobby Lobby suggested corporate rights are the pass through rights of the owners.  A corporation has constitutional rights as long as the persons making up the corporation  have an indirect benefit.
+   * Viewing the corporation as a person is necessary for many laws and regulations to have the intended effect, and typically it is the state or federal legislatures that decide when corporate personhood is necessary. Legislators draft state and federal statutes to include the corporation in the definition of a person without regard to how such classifications may impact the constitutional definition or rights of the corporation; instead, they make a conscientious decision that a statute should not apply equally to artificial persons.
+   * Regardless of the legal fictions created, corporations do not share all aspects of natural persons and do not need the same level of protection. Corporations are embodied with rights based solely on their form. Perpetual life, limited liability, fully alienable shares, and a transient ephemeral nature all provide corporations with greater opportunities legally.  The persons who make up a corporation and who may extend their rights to the corporation through Citizens United and Hobby Lobby have not been required to assume responsibility personally for the obligations of the corporation.
+   * A corporation, however, is not a citizen, can never be a citizen per the Fourteenth Amendment, and should never be granted rights incidental to citizenship.
+   * A corporation is not born and it lacks the physical body contemplated by the Amendment. It cannot vote, it cannot physically be imprisoned, and it cannot physically exercise religion through worship or reflection. A corporation may only be punished by infringements on its rights to exist, to contract, or to do business within a jurisdiction.  Corporate consequences are not impositions on a physical body. When a person is held liable for corporate actions, it is based on their individual role in the activity, not those taken by the corporation itself.
+
+
+
+
+   2. ARTICLE: Constitutional Personhood, 84 Geo. Wash. L. Rev. 605
+May  2016
+The George Washington Law Review
+
+
+
+
+Zoe Robinson
+Associate Professor of Law, DePaul University College of Law. J.D., The University of Chicago Law School
+
+
+Notes: 
+   * Corporate personhood and constitutional rights derived solely from the rights of the people who make up the corporation are outside of the scope of what the corporate founders intended when choosing the corporate form.
+   * By and large the rights contained in the Constitution are inclusive, speaking only of "people" or "persons"  or, more narrowly, "citizens."
+   * The Court's constitutional personhood jurisprudence lacks any clear or coherent framework for analyzing whether or when a claimant will be considered a constitutional person
+   * What exactly is constitutional personhood? 
+   * Constitutional personhood refers to a specific form of legal personhood that denotes a person's status as a constitutional rights holder, entitled to the protective auspices of the rights contained in the U.S. Constitution.
+   * The Constitution itself demands an answer to the "who" question; every constitutional claim requires not only that someone violate a constitutional restriction, but also that the person bringing the claim is constitutionally empowered to vindicate that violation. That is, it is essential to answer the question of who is entitled to raise a question that her constitutional right has been violated prior to any further judicial review.
+   * The basic standing doctrine stipulates that in order to satisfy Article III's case or controversy requirement - the "irreducible constitutional minimum" of standing - a plaintiff must "demonstrate that he has suffered 'injury in fact,' that the injury is 'fairly traceable' to the actions of the defendant, and that the injury will likely be redressed by a favorable decision." 
+   * The question of standing undertakes an entirely different inquiry than presented when we ask the question: is this claimant a constitutional rights holder? At base, standing is about who can vindicate the violation of a right, not who holds the right.
+   * Standing is not a necessary predicate for constitutional personhood Take the case of See v. City of Seattle, where a corporate claimant argued that the Fourth Amendment prevented Seattle's fire inspectors from entering its commercial premises.
+   * The Court held the Fourth Amendment's Search and Seizure Clause inapplicable to corporations on the basis that the corporation was not entitled to the protections of the claimed right. That is, a constitutional personhood does not vest in corporations for the purpose of the Fourth Amendment's Search and Seizure Clause
+   * Other Court cases surrounding personhood: Dred Scott v. Sandford  and Roe v. Wade
+   * Rights that Corporations have: 
+   * Corporations are constitutional persons for the purposes of the First Amendment Free Speech and Free Press Clauses, Fourth Amendment's protection against unreasonable searches and seizures, a limited form of the Fourth Amendment's right to privacy, Fifth Amendment's prohibition against double jeopardy/takings, 
+   * Rights that Corporations Don’t have:
+   * Fifth Amendment protection against self-incrimination, the right to appointed counsel to corporations, an the Privileges and Immunities Clause of the 14th amendment
+   * In Marshall v. Barlow's, Inc, the Court was asked to determine whether the Fourth Amendment's Warrant Clause extended to protect a corporation from surprise inspections from Occupational Safety and Health Administration. In concluding that it does, the Court analyzed the history of the Clause, reflecting on the role and protections of merchants in the colonies post-revolution, and arguing the Clause was intended to cover "commercial buildings" as well as private property.
+   * The closest the Court has come to establishing a test for determining the rights-holder status of corporations was in the 1978 case of First National Bank of Boston v. Bellotti.  In Bellotti, the Court was asked to determine whether a Massachusetts statute prohibiting campaign contributions by corporations violated the First Amendment's Speech Clause. The Court explicitly rejected the Massachusetts Supreme Court's reliance on corporate theory; the lower court had held that individuals enjoy broader First Amendment protections than corporations and that the First Amendment does not extend to protect corporate speech. The Court stated that the reliance on corporate personality as a guide for determining rights-holder status was "an artificial mode of analysis."  Instead, the Court said, the proper mode of analysis is to determine whether a right is "purely personal" or not.
+   * Constitutional personhood is not a universal binary switch; a person is not a constitutional person across all constitutional rights by virtue of a successful claim for one specific right.
+
+
+
+
+   3. European Parliament’s Resolution on Civil Law Rules on Robotics
+On February 16, 2017, the European Parliament adopted a legislative initiative resolution in which it recommended a range of legislative and nonlegislative initiatives in the field of robotics and AI to the European Commission. Among other things, it called on the European Commission to adopt a proposal for a legislative instrument providing civil law rules on the liability of robots and AI, “to propose common Union definitions of cyber physical systems, autonomous systems, smart autonomous robots and their subcategories,” establish criteria for the classification of robots that would need to be registered, establish a designated EU Agency for Robotics and Artificial Intelligence, and propose a charter consisting of a code of conduct for robotics engineers, a code for research ethics committees when reviewing robotics protocols, and model licenses for designers.  It also asked the Commission to consider “creating a specific legal status for robots in the long run, so that at least the most sophisticated autonomous robots could be established as having the status of electronic persons responsible for making good any damage they may cause, and possibly applying electronic personality to cases where robots make autonomous decisions or otherwise interact with third parties independently.”
+
+
+Full PDF of Artificial Intelligence and Civil Liability(July 2020) as requested by the European Parliament's Committee on Legal Affairs authored by Andrea Bertolini, Ph.D., LL.M. (Yale)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   4. APPROPRIATENESS AND FEASIBILITY OF LEGAL PERSONHOOD FOR AI SYSTEMS
+  
+
+July 22nd, 2018
+Notes: 
+   * While there may be future conditions that justify or even necessitate AI Personhood, it appears premature and probably inappropriate to introduce AI Personhood now, primarily because 
+   * (i) the scope of AI is unclear, as a concept or as an artifact, 
+   * (ii) it almost completely opaque what economic efficiencies will be gained, and what the distribution of economic benefits will be, 
+   * (iii) we have not demonstrated that existing legal structures cannot achieve similar ends, and 
+   * (iv) AIs do not yet meet the moral requirements for personhood, and are unlikely to meet them soon.
+   * Relevance of Legal (and Moral) Personhood
+   * In most legal systems there is a distinction between natural and legal persons: “Natural persons” includes all and only humans, whereas “legal persons” can exclude some humans but include non-human entities that have been deemed as needing special status
+   * Legal personhood may sometimes be founded on arguments about moral status
+   * Definitional Difficulties with AI
+   * The first challenge when evaluating whether AIs should be assigned an existing form of legal personhood, or whether AI Personhood should be created at all, is to define what counts as “AI”.
+   * Narrow AI addresses specific applications, where machines often outperform humans in speed, accuracy, and efficiency whereas General AI, by contrast, requires intelligent behavior that is (at least) as broad, adaptive, and advanced as a human across a full range of cognitive tasks.
+   * The European Parliament appears to consider AI as easily identifiable artifacts, which is misleading. 
+   * Existing & Current Law
+   * Existing legal approaches treat AIs simply as tools
+   * The European Parlia- ment expressed two primary concerns with this view: that it will be difficult to establish a causal link between the harmful action of the AI and a legal person that can be sued, and that it will be difficult to identify the cor rect defendant when technologies from several different sources effect an AI systems behaviour. AI Personhood could solve these problems, as the Euro- pean Parliament suggests, but so could other, less sweeping legal doctrines
+   * Potential Avenues: 
+   * Strict Product Liability 
+   * The law could declare that some uses of AI are ultrahazardous, meaning they pose a significant risk of harm even when performed with care. 
+   * AIs could be treated as animals. Although animals are autonomous, their owners are legally responsible for them.
+   * Vicarious Liability
+   * A doctrine where one party takes legal responsibility for the conduct of another. If an AI system committed crime, liability would be determined as if the owner had committed the act. The owner could not evade responsibility by claiming lack of knowledge.
+   * Advantages of AI Personhood
+   * Similar to corporate personhood, there can be a connected group of persons-though potentially distributed in time or space—to pool resources and centralize risks. This pooling of resources can be necessary to spur large-scale innovations or to take advantage of economies of scale
+   * From a legal point of view, corporate personhood allows single organizations to be held liable for harms without the need to identify a responsible individual. Le- gal efficiency is achieved because it allows plaintiffs to sue the organization directly without going through a lengthy, expensive, and arduous process of identifying the specific individuals responsible.
+   * If, in the future, a general AI system is developed that is indistinguishable from a person, by what argument do we deny that system the same rights as a human?
+   * Disadvantages of AI Personhood
+   * The European Parliament suggests creating a collective insurance fund to cover damages arising from AIs. However, the technological trajectory of AI is uncertain and unpredictable, and it is therefore unwise to construct financial com- pensation resources today to meet as yet unknown future needs
+   * AI Personhood would allow producers and owners of AIs to shift liability to the artifact itself. This will disincentivize investment in adequate testing before deployment. AI Personhood can result in an unsafe environment.
+   * it will be difficult to bring proceedings against AIs or hold them to account. A corporation may employ lawyers or seek outside counsel. AIs do not (yet) have the capacity to argue their case in court, appoint a lawyer to represent their interests, or engage meaningfully with a plaintiff to reach a settlement
+   * An AI system cannot today interpret it ethical responsibilities on a contextual basis, nor is it intrinsically aware of its own existence
+   * Conditions for AI Personhood
+   * Technological
+   * Economic
+   * Moral
+   * Legal
+   * AI Personhood would be a far-reaching change in society that must not be taken lightly. Arguments from legal efficiency would require ev- idence that the current law is insufficient. Similarly, a claim that current law retards the development of beneficial AIs must be carefully assessed. Signif- icant justification should be required to enact such a fundamental change to the legal system, and great care should be taken that AI Personhood is not abused by powerful interests.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Issues:
+   1. IP(AI Personhood Angle)
+   1. Monkey, Animals, Copyrighted work(AI-produced art)
+   2. Admiralty(ships)
+   3. Why can’t a corporation be an inventor for patent law purposes?

@@ -1,0 +1,283 @@
+﻿Gerrymandering and AI 1
+Ashar Farooq
+December 20th, 2020
+
+
+
+
+Overview of Content: 
+
+
+Gerrymandering and AI Intro
+Gill vs. Whitford 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1. ARTICLE: THE PROMISE AND PERILS OF COMPUTERS IN REDISTRICTING, 5 Duke J. Const. Law & Pub. Pol'y 69
+2010
+
+
+Duke Journal of Constitutional Law & Public Policy
+
+
+
+
+Micah Altman, Senior Research Scientist, Institute for Quantitative Social Science, Harvard University
+
+
+Michael P. McDonald, Associate Professor, Department of Public and International Affairs, George Mason University
+ 
+
+
+
+
+Notes: 
+* Lawmakers, already uncomfortable with how Facebook handled privacy around users’ photos and posts, have drawn the drawbridge on users’ money
+* President Ronald Reagan: "There is only one way to do reapportionment--feed into the computer all the factors except political registration."
+* The Supreme Court: "The rapid advances in computer technology and education during the last two decades make it relatively simple to draw contiguous districts of equal population [and] at the same time to further whatever secondary goals the State has."
+* As applied to redistricting, the goal of geographic information systems (GIS) is to aid in the efficient creation of maps associated with data. In other words, GIS aims to support people in making decisions about districting. By itself, this is not controversial, but many have raised the concern that the manipulation of election data could make gerrymanders unprecedentedly easy to create and robust in effect. Thus, proponents of reform in this area of computing argue that the data available to professionals who use these systems should be artificially restricted to limit the ability to gerrymander by exploiting computer inputs. Iowa, for example, implements this reform strategy by preventing the legislature's advisory redistricting commission from considering election data or the residence of incumbents while drawing districts
+* There are some important limitations to automated redistricting
+   * The first limitation is mathematical: the problem of creating optimally compact, contiguous, equal-population districts is provably "NP-hard."  NP-hard partitioning problems are a class of problems generally considered by computer scientists and mathematicians to be computationally intractable  and probably impossible to create a computer program that solves these problems optimally and reliably except in very small or limited cases
+   * The second reason automated redistricting is difficult is that in practice there is a large gap between identifying representational values and creating criteria reflecting those values that can be optimized in a computer. Even conceptually simple values like "contiguity" require a host of technical choices when fed into a computer. Is a district contiguous if it is connected in some place only by telephone lines? By areas containing roads but not people? By areas containing no land (with or without bridges)?
+* Legal and academic scholars suggest many plausible criteria for evaluating the quality of districts, none of which are commonly implemented in fully-automated redistricting systems. For example, social scientists have suggested that some of the following criteria, among others, should be incorporated in redistricting:
+   * Neutrality or symmetry of the projected seats-vote curve. 
+   * Range of responsiveness or the range of possible vote shares across which electoral results would change. 
+   * Competitiveness, maximizing the number of districts with competitive margins. 
+   * Consumer surplus or minimize the number of votes for a losing candidate. 
+   * Clustering, per se.
+   * Continuity of representative relationship, (implying some degree of incumbency protection).
+* The next major change in the use of computers in redistricting will be centered on systems that enable the public to participate in the map drawing process.
+* Automated redistricting systems often give the appearance of clarity while embedding bias in technical details. Similarly, web-based redistricting software, if not thoughtfully implemented and deployed, could create impressions of accessibility and transparency that are merely illusory. Software and systems that are used to analyze or generate plans, or reports based on that software, can be impossible to reproduce or correctly interpret without access to the code used to generate them
+* Creating and evaluating redistricting plans requires access not only to demographic data but to community, and in many cases, electoral data, as well. The public needs equal access to this data to participate in plan creation and to verify claims made about official plans
+
+
+  
+  
+
+
+
+
+
+
+
+2. Supreme Court Justice Elena Kagan warns AI-powered gerrymandering could undermine US democracy
+June 27th, 2019
+ Business Insider US
+
+
+
+
+Notes: 
+* Federal courts cannot hear challenges to partisan gerrymandering, according to a 5-4 Supreme Court decision
+* In her dissenting, Justice Elena Kagan warned that in the age of machine learning and artificial intelligence, this decision could put US democracy at risk: "Someplace along this road, 'we the people' become sovereign no longer."
+* To Justice Kagan's point, software is already at work that can help "crack and pack" voting districts into arrangements more suitable to one party or another
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3. BARD: Better Automated Redistricting
+May 2011
+Journal of Statistical Software
+
+
+  
+
+
+
+BARD is an early open source software package for general redistricting and redistricting analysis. BARD provides methods to create, display, compare, edit, automatically refine, evaluate, and profile political districting plans. BARD aims to provide a framework for scientific analysis of redistricting plans and to facilitate wider public participation in the creation of new plans. BARD facilitates map creation and refinement through command-line, graphical user interface, and automatic methods. Since redistricting is a computationally complex partitioning problem not amenable to an exact optimization solution, BARD implements a variety of selectable metaheuristics that can be used to refine existing or randomly-generated redistricting plans based on user-determined criteria. Furthermore, BARD supports automated generation of redistricting plans and profiling of plans by assigning different weights to various criteria, such as district compactness or equality of population. This functionality permits exploration of trade-offs among criteria.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4. Gill v. Whitford(2017)
+July 3rd, 2019 
+Brennan Center for Justice 
+
+
+Notes: 
+* In November 2016, the panel declared that the state house plan adopted by Wisconsin’s Republican-controlled legislature in 2011 was an unconstitutional partisan gerrymander that violated both the Equal Protection Clause and the plaintiffs’ First Amendment freedom of association. The ruling in the US District Court for the Western District of Wisconsin was the first time in over three decades that a federal court invalidated a redistricting plan for partisan bias.
+* Despite Democrats winning a majority of the statewide Assembly vote in 2012 and 2014, Republicans won sixty of the ninety-nine Assembly seats. Wisconsin Republicans dispute the assertion that they intentionally engineered a biased map, arguing that partisan skews in the map reflect a natural geographic advantage they have in redistricting as a result of Democrats clustering in cities while Republicans are spread out more evenly throughout the state. The court, however, said the state’s natural political geography “does not explain adequately the sizeable disparate effect” seen in the previous two election cycles
+* Supreme Court, District Court, and Court of Appeals documents, motions, filings, and amicus briefs on this page.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5. How next-gen computer generated maps detect partisan gerrymandering
+ScienceNews Journalism 
+
+
+
+
+Sujata Gupta
+
+
+Sujata Gupta is the social sciences writer for Science News. She was a 2017-18 Knight Science Journalism fellow at MIT. Her work has appeared in The New Yorker, Nature, Discover, NPR, Scientific American, and others
+
+
+September 7th, 2020
+
+
+
+
+Notes: 
+* According to the U.S. Constitution and the Voting Rights Act of 1965, a state’s voting districts must each contain about the same number of people and be drawn in a way that doesn’t disenfranchise racial or ethnic minorities. States can have additional rules, such as contiguity of districts or that cities or counties be kept intact
+* That leaves two main tactics for gerrymandering: “packing” the opposing political party’s supporters into a few districts in hopes your party dominates the rest, or “cracking” these supporters by spreading them across many districts to dilute their collective voting power. Those skilled in gerrymandering draw district boundaries that ensure decade-long protection for the ruling party.  
+* Symmetry-based tests gained prominence after LULAC v. Perry, a 2006 Supreme Court case that reviewed a mid-decade redistricting plan in Texas. In that case, scientists entered into evidence a partisan bias test — a simulation of what would have happened in an election if the parties’ vote shares were reversed. For instance, if Party A wins 10 out of 15 seats with 70 percent of the vote in an actual election, then Party B, in a hypothetical election, should win 10 seats if it had 70 percent of the vote. Deviation from that “symmetry” equals the level of partisan bias
+* In LULAC, the justices largely upheld Texas’ map. But the court indicated willingness to use a symmetry-based method in a future case, though perhaps not solely the partisan bias test. Justice Anthony Kennedy expressed concerns about that particular test, saying it was unclear how much bias was too much.
+* Critics of symmetry-based tests, though, say that the presence of packing and cracking does not prove that the governing party has intentionally gerrymandered the state’s districts. Instead, asymmetries can also arise from natural variations in where voters live. Crucially, Republicans tend to be more dispersed across states while Democrats are concentrated in cities
+* The issue of gerrymandering was weaving through the federal courts until June 2019, when the Supreme Court ruled 5–4 in Rucho v. Common Cause that partisan gerrymandering fell outside federal jurisdiction. The decision was in response to an appeal challenging a federal court’s January 2018 ruling that North Carolina’s congressional district map had been gerrymandered along partisan lines, giving Republicans 10 out of 13 seats in 2016 and 2018, despite the fact that in both elections Republicans won only about half the popular vote
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6. AI-drawn voting districts could help stamp out gerrymandering
+Tech Crunch
+
+
+September 4th, 2020
+
+
+
+
+
+
+Notes: 
+* The way forward is for people to work collaboratively with machines to produce results not otherwise possible. To do this, we must capitalize on the strengths and minimize the weaknesses of both artificial intelligence (AI) and human intelligence.
+* Machines enhance and inform intelligent decision-making by helping us navigate the unfathomably large and complex informational landscape. Left to their own devices, humans have shown themselves to be unable to resist the temptation to chart biased paths through that terrain

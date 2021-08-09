@@ -1,0 +1,179 @@
+﻿Digital Investment Advisers and the Law
+
+
+Ashar Farooq
+October 11th, 2020
+
+
+
+
+1. COMMENT: Robo-Advisers Jumping on the Bandwagon: Yet Another Cry for a Uniform Standard *, 97 N.C.L. Rev. 673
+March 2019 
+North Carolina Law Review
+
+
+Jake Rifkin
+J.D., 2019, University of North Carolina School of Law
+Associate Attorney at Womble Bond Dickinson (US) LLP
+
+
+
+
+Notes:
+* SEC and FINRA joint Investor Alert 2015 → Report on Digital Investment Advice by the Financial Industry Regulatory Authority in March 2016 → 2017 SEC Guidance
+* The difference between being regulated as an investment adviser or as a broker-dealer is important because the two are held to different legal standards in connection with the investment advice given
+* The difference is that investment advisers are held to a fiduciary standard, whereas broker-dealers are held to a lower standard of advice deemed suitable to the client in the specific circumstances.
+* Investment advisers have continuing obligations pertaining to being a fiduciary, while broker-dealers are able to insulate themselves from liability by pointing to the suitability of the singular trade at that given point in time.
+* Should there be a “harmonized” uniform standard?
+   * Yes: investment advisers and broker-dealers generally perform the same functions and thus should be held to the same standards under the law
+   * No: holding broker-dealers to a lesser standard provides more affordable investment services for those who cannot afford a registered investment adviser
+* This Comment argues that a uniform fiduciary standard is warranted because the accelerated proliferation of robo-advisers--specifically, the myriad of potential hybrid business models involving these robo-advisers--will provide even greater uncertainty to the current regulatory regime. This uncertainty will not only frustrate market participants but also generate even greater issues for the SEC down the road.
+* The Advisers Act defines an "investment adviser" as “any person who, for compensation, engages in the business of advising others, either directly or through publications or writings, as to the value of securities or as to the advisability of investing in, purchasing, or selling securities, or who, for compensation and as part of a regular business, issues or promulgates analyses or reports concerning securities”
+* SEC v. Capital Gains Research Bureau, Inc 1963: “The Investment Advisers Act of 1940 thus reflects a congressional recognition "of the delicate fiduciary nature of an investment advisory relationship," as well as a congressional intent to eliminate, or at least to expose, all conflicts of interest which might incline an investment adviser--consciously or unconsciously--to render advice which was not disinterested”
+   * The Court justified its interpretation by reasoning that, in enacting the Advisers Act, Congress intended investment advisers' relationships with clients to be closer than that of an ordinary arm's-length transaction.
+   * Congress intended for unsophisticated investors to be able to place a high degree of trust in their investment advisers
+* Broker-dealers are regulated under the Securities Exchange Act of 1934 ("Exchange Act")
+* Investment advice given by broker-dealers--if incidental and devoid of any special compensation thereof--is held to a "suitability" standard of care under FINRA Rule 211
+* The debate surrounding the DOL's Fiduciary Rule contained significant mentions of robo-advisers
+   * Struck down by Fifth Circuit
+* MA State-registered Investment Advisers’ Use Of Third-party Robo-advisers 
+   * "it is the position of the Division that fully automated robo-advisers, as currently structured, may be inherently unable to carry out the fiduciary obligations of a state-registered investment adviser."
+* Arguments against robo advisers:
+   * (1) limitations are inherent in using questionnaires to gather data to base investment guidance upon
+   * (2) limitations of robo-advisers as binary creatures exist as a result of a lack of a human element
+   * (3) robo-advisers lack experience in anything but a bull market
+* The need for a uniform standard and the inadequacies of the current regulatory regime in the context of robo-advisers
+   * Investor Confusion
+   * Inconsistent Standards
+   * Reasonable Expectations
+
+
+2. FINTECH'S PROMISES AND PERILS COMPUTER AS CONFIDANT: DIGITAL INVESTMENTADVICE AND THE FIDUCIARY STANDARD, 93 Chi.-Kent L. Rev. 141
+2018
+Chicago-Kent Law Review
+
+
+Nicole G. Iannarone
+Assistant Clinical Professor and Director, Investor Advocacy Clinic, Georgia State University College of Law
+
+
+
+
+Notes:
+* Big Recommendations: 
+   * Regulators should deploy existing regulatory tools such as examination, enforcement, and disclosure to explore the sufficiency and malleability of their current parameters before constructing any new regulatory schemes
+   * The disclosure device should be studied to determine whether the intended beneficiary of the disclosure, a retail investor, comprehends the information being disclosed to them and whether changes to the format, delivery, and/or content of disclosures would better protect consumer investors
+* The 2010 Dodd-Frank Wall Street Reform and Consumer Protection Act directed the SEC to study the differing standards of care that broker-dealers and investment advisers owe their clients and to identify any regulatory gaps that should be closed to better protect retail consumers.
+* President Trump executed a Presidential Memorandum on February 3, 2017 directing the DOL "to examine the Fiduciary Duty Rule to determine whether it may adversely affect the ability of Americans to gain access to retirement information and financial advice."
+* There is substantial variation between robo-advice platforms, with differences in: (1) end user of the digital advice; (2) range of investment advice and options provided; and (3) level of human investment adviser interaction
+* The traditional investment adviser's "personal touch" is why some predict that robo-advisers will never entirely replace the traditional, human investment adviser.
+* Federal regulators believe robo-advisers are subject to the 1940 Act just as human advisers are.
+* Like the then-new investment adviser category of professionals that Congress hoped to learn about through the 1940 Act, robo-advisers are not an entirely well-known, uniform, or understood entity.
+
+
+3. NOTE: ARE ROBOTS GOOD FIDUCIARIES? REGULATING ROBO-ADVISORS UNDER THE INVESTMENT ADVISERS ACT OF 1940, 117 Colum. L. Rev. 1543
+2017
+Columbia Law Review
+
+
+Megan Ji
+J.D. Candidate 2018, Columbia Law School.
+Notes:
+* The SEC's heavy reliance specifically on enforcement actions (prosecutions in administrative court) to develop Advisers Act law further exacerbates the ambiguity in the law's standards
+* Due to how the SEC allocates its resources, it generally takes action against only egregious violations
+* In Santa Fe Industries v. Green, which dealt with a different securities statute, the Court stated in a footnote that Capital Gains recognized "that Congress intended the Investment Advisers Act to establish federal fiduciary standards for investment advisers."  Later, in the Court's second interpretation of the Advisers Act, Transamerica Mortgage Advisors, Inc. v. Lewis, the Court more strongly solidified the investment adviser fiduciary duty, writing "[a]s . . . previously recognized, § 206 establishes 'federal fiduciary standards' to govern the conduct of investment advisers." Since then, countless court cases and SEC enforcement actions have read a fiduciary duty into Section 206, and it is commonly accepted that this duty originated from Capital Gains.
+* Market Players of robo advisers: Betterment, Wealthfront, Personal Capital, AssetBuilder, SigFig, and WiseBanyan
+* Arguments against robo-advisors' regulatory acceptability: 
+   * Limitations of using questionnaires to extract customer information
+   * Robo-advisors lack human perception
+   * Robo-advisors cannot be fiduciaries because they are not equipped to address market failures
+* Arguments for robo-advisors' regulatory acceptability: 
+   * Both common law and investment advice law hold that that the investment adviser fiduciary duty should be read flexibly, with the context of the investment adviser-client relationship in mind
+   * Even if regulators were to accept that robo-advisors fall short of the investment adviser duty of care standard, robo-advisors would be ideal candidates for modifying the standard.
+* Issues:
+   * Robo-advisor conflicts have larger and more certain effects than human adviser conflicts
+   * Robo-advisor clients are less sophisticated than most investment advice clients and will therefore have more difficulty understanding the consequences of conflicts
+   * Properly regulating robo-advisor conflicts is additionally pressing because of broader trends in the robo-advisor market.
+* Solutions for Addressing Robo-Advisor Conflicts:
+      * The SEC should require that robo-advisors, in their disclosures, clearly delineate between conflicts that are programmed into their algorithms and conflicts that may affect the design of algorithms
+      * Due to the different natures of unintentional and intentional robo-advisor conflicts, the SEC should establish different disclosure requirements for each type of conflict
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4. ARTICLE: RETHINKING AUTOMATED INVESTMENT ADVISER DISCLOSURE, 50 U. Tol. L. Rev. 433
+Spring 2019
+Toledo Law Review
+
+
+ Nicole G. Iannarone 
+Associate clinical professor, Georgia State University College of Law, J.D. Yale Law School
+
+
+Notes: 
+* Generally speaking, the regulation of financial advice is disjointed, with a confusing and fragmented patchwork of regulation covering a wide range of professionals with similar sounding names but very different obligations to their clients.
+* Consumers can receive investment advice from a wide variety of regulated financial providers, including investment advisers, broker-dealers, and insurance sales persons--each  subject to a different regulatory regime.
+* Instead of simply pushing out disclosure  information, robo-advisers can work collaboratively with investors to help them understand the information that is shared, meeting the goal of a disclosure-based regulatory regime. 
+* The disclosure is active, requiring engagement and interaction from the investor, and iterative, providing more information at subsequent stages of decision making and as the robo-adviser determines the customer understood the prior disclosure material. 
+
+
+
+
+
+
+
+
+1. Fiduciary Duty Rule  → SEC 
+2. Newsletter/Investment Advisor
+3. FinTech Area of Focus
+4. Enforcement Actions/SEC Cases

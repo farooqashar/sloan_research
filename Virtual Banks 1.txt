@@ -1,0 +1,281 @@
+﻿Virtual Banks 1
+Ashar Farooq
+November 29th, 2020
+
+
+
+
+Overview of Content: 
+
+
+Virtual Banks Intro
+Regulations of Virtual Banks Intro
+
+
+* US Treasury Fintech Report(2018) 
+* Deloitte Luxembourg, Digital Banking Benchmark: Improving the digital performance(Deloitte, 2017)
+* The future of bank risk management(McKinsey & Company, 2015)
+* Federal Financial Institutions Examination [https://www.ffiec.gov/PDF/EFS.pdf]
+
+
+
+
+1. COVER STORY , UPDATING RETAIL BANK MERGER REVIEW FOR THE INTERNET AGE, 34 Antitrust ABA 44
+Spring 2020
+American Bar Association Antitrust Practice Section
+
+
+ Mark Botti, Nicholas Hill, Sheridan Rogers, and Mathis Wagner
+
+
+Mark Botti is a Partner at Baker Botts. Nicholas Hill is a Partner, Mathis Wagner a Managing Economist, and Sheridan Rogers a Consultant II at Bates White Economic Consulting
+
+
+Notes: 
+* Popular examples of virtual banks include Charles Schwab Bank, Capital One 360, Ally Bank, Discover Bank, Synchrony Bank, and E*Trade Bank
+* Proposed bank mergers in the United States are reviewed by the Federal Reserve and the Antitrust Division of the U.S. Department of Justice
+* Both agencies typically consider two relevant product markets during a bank merger review:  (1) retail banking products and services; and (2) small business banking products and services
+* The Fed typically screens proposed banking mergers using FDIC data on deposits to calculate market shares. It performs this screening using the CASSIDI tool, which the St. Louis Federal Reserve Bank developed. The Antitrust Division also uses FDIC deposit data as the basis for calculating market shares to prepare an initial screen.
+* It is noteworthy that the official bank merger guidance does not address the role of virtual banks.
+* The FDIC deposit data contain information on all deposits at retail banks in the United States, including virtual banks. Deposits are assigned to the branch at which they are held.
+* The dataset works well for analyzing brick-and-mortar banks. It is problematic for virtual banks, however, because they do not have branches and the data do not allow for determining the geographic location of the customer. Consequently, all of a virtual bank's deposits are instead listed in the FDIC deposit data as being located at the virtual bank's headquarters.
+* The rise of virtual banks (and virtual bank deposits) has two important implications for how the Antitrust Division and the Fed should calculate market shares and concentration measures in banking markets.
+   * First, when they use FDIC data, the agencies should remove deposits of virtual banks from their headquarter markets. Failure to do so will make it appear that certain virtual banks dominate the markets in which they are headquartered. 
+   * Second, the agencies should adjust market shares and concentration measures calculated with FDIC deposit data to account for the presence of virtual banks. This is more difficult because there is no publicly available data source that shows where virtual bank deposits belong.
+* It is likely that the share of virtual banks varies systematically by market
+* Conclusion
+   * Virtual banks have grown steadily over the past 20 years and now account for almost six percent of all deposits. Regulatory agencies have not responded to this development and continue to base their assessment of proposed banking mergers on HHI(Herfindahl-Hirschman Index: a tool used by regulators to determine the level of competition in a specific market) calculations that do not account for deposits at virtual banks. This results in a systematic and increasing overestimate of local banking market HHIs and the increase in concentration associated with a merger. The practical implication is that in the evaluation of proposed mergers, too many banking markets are likely being flagged as potentially problematic. More broadly, ignoring competition from virtual banks leads to the erroneous conclusion that local banking markets have become more concentrated over the past decade. As consumers' banking habits are changing, it is important to keep pace with new sources of competition in banking markets. This argues for the Fed and the Antitrust Division to take account of virtual banks.
+
+
+
+
+2. VIRTUAL BANKING - OVERVIEW OF THE CURRENT LANDSCAPE
+June 24th, 2020
+Sia Partners
+
+
+Sia Partners: a management consulting firm that serves the following industries: Banking, Insurance, Healthcare, Telecommunications & Media, Energy, Resources & Utilities, Transportation & Logistics, Industry and Retail, Government, and Tech
+
+
+Notes: 
+* The First Internet Bank and Bank of Internet USA are the two leading virtual banks at the moment. As of now their assets amounted to US$8.5 billion and US$2.4 billion respectively, with diversified product offerings ranging from saving accounts, credit cards to personal loans and mortgages. Virtual banking is a bit slow to take off in UK with the first digital-only bank launched in 2017 to provide savings accounts and small business loans
+* Although many digital-only banks are ‘virtual’ in nature, they are considered as banks for all intents and purposes and abide by the same rules as traditional retail banks.
+* In UK, these virtual banks are required to fulfill the requirements for a small specialist bank before engaging in the virtual banking business:
+   * Authorization obtained from the Financial Conduct Authority (FCA)
+   * Banking license issued by Bank of England’s Prudential Regulation Authority (PRA)
+   * Capital requirements : €5 million plus a capital planning buffer to €1 million or £1 million (whichever is higher)  
+* In US, the applicant intended to start a virtual banking business must follow the same process for starting a traditional banking business as below:
+   * First to receive approval for a federal or state charter
+   * Next to obtain approval for deposit insurance from the Federal Deposit Insurance Corporation (FDIC)
+   * The applicant must also comply with the capital adequacy guidelines of their primary federal regulator
+* Hong Kong is the 1st jurisdiction(Hong Kong Monetary Authority (HKMA)) having a specific guideline detailing the rules and expectation for the operational and risk management of a virtual bank, setting out clear criteria for priority handling of virtual bank applications
+   * Issues with obtaining virtual bank licenses:
+      * High capital requirements– virtual banks looking to set up in Hong Kong will need to have at least HK$300 million (US$38.36 million) in capital, which is the same standard applied for all licensed banks and stipulated in the Banking Ordinance. Such can be one heavy burden for the start-ups eager to enter into the virtual banking business.
+      * Identification of a sound business model – HKMA considers virtual banking as a new business model. Especially for the Fintech startups & non-banks, they need to identify and establish a sustainable business model in order to meet HKMA requirements on the viability of business plans. 
+      * Fulfillment of the regulatory standards– virtual banks face the same regulatory challenges as physical banks. However, since they never actually see their customers and the operating model is much different than the traditional banks, the regulations can be more difficult to meet.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3. A Deep Dive Into What Digital Banking Will Bring To Singapore
+10th July, 2019
+The Asset(Asset Publishing and Research Ltd is an integrated multi-media company that connects access to the leading financial decision makers with curated content deploying new media, print, events and big data)
+
+
+Notes: 
+* What is the value of new virtual bank licenses in Singapore?
+   * The issuance of virtual bank licenses helps balance possible global disruption with local innovation
+   * It helps keep Singapore’s regional leadership as a financial hub
+   * The initiative helps accelerate Singapore towards a cashless society
+* Why are new virtual banking licenses becoming a trend globally?
+   * Virtual bank licenses are a regulatory initiative to help bring a new level of competition into the banking industry
+   * Changing the needs and demands of today’s customers
+      * According to a recent global survey conducted by Oracle, today's consumers are demanding deeper, smarter and more relevant digital experiences.
+   * Financial inclusion and meeting the needs of underserved segments/niches
+      * Virtual banking licenses create a banking environment that is more inclusive, especially for market segments that have not traditionally been addressed by incumbent banks, such as SMEs, freelancers, underbanked, millennials, or those without a credit history
+   * Propelling the growth of fintechs and delivering a more collaborative environment
+* How has progressive regulation become a driver of innovation?
+   * There is an opening up of the financial services industry at two levels:
+      * Issuance of virtual banking licenses, increasing competition and expanding the number of players in the industry
+      * Open banking regulation will make it a mandatory requirement for existing banks to open up to third parties or fintechs.
+* What is the impact of virtual banking licenses for traditional banks?
+   * Increased competition from virtual banks could push incumbent banks to move much faster into data-driven strategies that look to monetize data among participants of new financial services ecosystems beyond the traditional boundaries of the bank itself.
+
+
+4. Virtual banking is disrupting Asia’s financial services
+IBM
+
+
+  
+
+
+
+Notes: 
+* The recent announcement by the Monetary Authority of Singapore (MAS) to grant five virtual banking licenses will inevitably have a disruptive effect on the local financial services industry. Two of the new licenses will be for the full range of retail banking services, which means that, for the first time in Singapore, non-banks will be able to accept deposits from and provide financial services to retail customers. The remaining three licenses are intended for wholesale banking
+* Regulators must navigate a narrow route. They must avoid causing a loss of confidence as a result of perceived lax controls. At the same time, they must not impose a wall of restrictive compliance and regulatory standards on new entrants. The goal is to maintain financial stability by encouraging rapid innovation in banking.
+* Security is also a fundamental requirement for virtual banking. One study shows the average cost of a banking security breach is USD 3.86 million. Regulators and the public-at-large will not tolerate lax security among virtual banks
+* Since late 2017, Orange, a leading French telecom operator, has been operating a disruptive banking model in France with Orange Bank, reaching about 100,000 customers.10 Orange Bank’s innovative service, called Djingo, is a virtual advisor that allows customers to interact with their bank when and where they want. In France, mobile banking is becoming pervasive. Sixty-three percent of bank customers downloaded their bank’s app, and 47 percent use it at least weekly.11 And Djingo can answer questions in natural language and perform actions such as blocking or unblocking a credit card
+* Monetary Authority of Singapore’s Full Bank Framework
+* Monetary Authority of Singapore’s Wholesale Bank Framework
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5. Regulating fintech financing: digital banks and fintech platforms
+Financial Stability Institute(jointly created in 1998 by the Bank for International Settlements and the Basel Committee on Banking Supervision. Its mandate is to assist supervisors around the world in improving and strengthening their financial systems)
+August 2020
+
+
+
+
+Notes: 
+* For digital banking, most jurisdictions apply existing banking laws and regulations to banks within their remit, regardless of the technology they apply. 
+   * From these jurisdictions, a few have put in place initiatives that are intended to ensure that new banks find it easier to enter the market by allowing them time to complete their build-out or to meet the requirements of the prudential framework in full
+* In the few jurisdictions that have set specific regulatory frameworks for digital banks, the main licencing and ongoing requirements are similar to those for traditional banks
+   * Applicants for a digital bank licence face requirements on the place of incorporation and legal form, sustainability of business plan, minimum paid-up capital, fitness and propriety of management, risk governance frameworks and documentation of the exit strategy. They also face requirements on ownership and control, although these may be different to those applicable to other banks. After obtaining a digital bank licence, licence holders are subject to the same ongoing requirements as traditional banks on capital, leverage, liquidity, anti-money laundering/combating the financing of terrorism, market conduct, data protection and cyber security
+* The main difference between licensing requirements for traditional and digital banks is in technology-related elements and the aims of the business plan
+   * Digital banks face restrictions on their physical presence and, in some cases, the market segments they are allowed to serve. Their fit and proper requirements tend to be more prescriptive in relation to board members’ expertise in technology; a satisfactory track record in operating a technology business; and assessments of technical infrastructure by independent third-party technical experts. In addition, some jurisdictions require digital banks to demonstrate a commitment in driving financial inclusion, particularly for underserved and hard-to-reach market segments.
+* Digital banks are subject to ownership and control requirements, although these may be different to those applicable to other banks
+   * Digital banks may need to be owned or controlled by local citizens
+   * In contrast to traditional banks, non-financial companies may be allowed to become controlling shareholders
+* Under specific licensing frameworks, digital bank applicants face stringent requirements on technology-related elements
+   * The technical infrastructure may need to be assessed by external parties
+   * A satisfactory track record in operating a technology business may be required
+   * Fit and proper requirements tend to be more prescriptive in relation to board members’ expertise in technology
+
+
+  
+
+Taxonomy of the fintech environment
+
+
+
+
+  
+
+Some licensed banks with technology-enabled business models
+
+
+
+
+
+
+
+
+
+
+  
+
+Some specific licensing frameworks for digital banks

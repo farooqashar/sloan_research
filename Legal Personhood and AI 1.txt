@@ -1,0 +1,253 @@
+﻿Legal Personhood and AI 1
+Ashar Farooq
+October 25th, 2020
+
+
+
+
+Overview of Content: 
+
+
+Legal Personhood and AI
+Holding AI responsible
+
+
+Notes: 
+* In the view of some legal scholars, computer software is traditionally regarded as the tool of users, and the current law holds this legislative idea for algorithms. In this respect, it is logical to view algorithms as mere tools for users to realize their own intents. This has limitations though.
+* When analyzing legal personhood against the criteria of the uncontrollability and autonomy of AI-based algorithms, it seems like the less controllable and more autonomous algorithms become, the more necessary it is that the law should abandon the traditional view on instrumentality and admit their legal personhood.
+* There might be a difference between "legal person" and "biological human being.”
+* The critiques against permitting algorithms legal personhood are in most cases rooted in the morality of humans in philosophical theories, as the criterion for differentiating persons from objects.
+* Old essay on Legal Personhood For Artificial Intelligences from the North Carolina Law Review (1992)
+   * Two issues: 1) The responsibility objection focuses on the capability of an AI to fulfill its responsibilities and duties and 2) The argument is that the capacity of an AI to follow a program, even if that program contains a tremendously elaborate and complex system of rules, is not sufficient to enable the system to make judgments and exercise discretion.
+   * If an AI somehow said this, "I demand my legal right to emancipation under the Thirteenth Amendment to the United States Constitution!", then this would be a problem with giving rights of constitutional personhood to an AI
+      * Arguments against this:
+         * AIs Are Not Humans, thus have no constitutional  rights
+   * The Missing-Something Argument
+      * AIs Cannot Have Souls
+      * AIs Cannot Possess Consciousness
+      * AIs Cannot Possess Intentionality
+      * AIs Cannot Possess Feelings
+      * AIs Cannot Possess Interests
+      * AIs Cannot Possess Free Wills
+   * The Simulation Argument
+      * We are not tempted to say that a computer simulation of an earthquake is an earthquake -- no matter how good the simulation is. Why would we want to say that a computer simulation of a person is a person or that a computer simulation of intelligence is intelligence?
+      * AIs are artifacts: they are the product of human labor
+* Turing Test
+   * The Turing test, originally called the imitation game by Alan Turing in 1950, is a test of a machine's ability to exhibit intelligent behaviour equivalent to, or indistinguishable from, that of a human
+   * The Turing Test would not be the legal test for constitutional personhood
+   * What if an AI failed the Turing Test, but argued that the test was biased against it.
+* Could a computer algorithm be put on trial?
+* Stanford Artificial Intelligence & Law Society (SAILS) Symposium - AI & Personhood
+* 2019 Russian paper on the Criteria for Recognition of AI as a Legal Person 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1. COMMENT: COPYRIGHT IN THE ARTIFICIALLY INTELLIGENT AUTHOR: A CONSTITUTIONAL APPROACH USING PHILIP BOBBITT??S MODALITIES OF INTERPRETATION, 22 U. Pa. J. Const. L. 867
+May 2020 
+University of Pennsylvania Journal of Constitutional Law
+
+
+Brian Golger
+J.D., 2020, University of Pennsylvania Law School; B.A., 2015, Bowdoin College.
+
+
+Notes: 
+* In Article I, Section 8, Clause 8 ("IP Clause"), the Constitution gives Congress the power "To promote the Progress of Science and useful Arts, by securing for limited Times to Authors and Inventors the exclusive Right to their respective Writings and Discoveries."  The algorithms' outputs are works of art that are oftentimes indistinguishable from human works, so it may seem intuitive that a work by artificial intelligence can be protected by copyright. If an algorithm's painting is so similar to a human work of art as to pass the Turing Test,  why should it not be protected from unauthorized copying?
+* There is nothing in the Constitution that describes who or what an author is. The most common understanding of an author is probably a human individual who writes a book, but "author" can also plainly be understood to mean "one that originates or creates something." There is enough room here for Congress to argue that, strictly based on the text of the Constitution, the programmer could be interpreted as the "originator" of a piece of work created by his code. A broader reading of the Constitution could also be made to include an algorithm as an author because the algorithm could properly be understood by a person on the street as "creating" the work of art.
+* The algorithm or machine can be viewed as an "employee" and the programmers as the employers, and ultimately the authors. Even though the algorithm is undertaking the actual labor of producing the works, it is the programmer who takes the initiative to create and instruct the algorithm. Whatever the algorithm creates, the programmers have the ultimate decision to accept, reject, or modify the work.
+* It would be a stretch even today to find that an algorithm fits the definition of "author," and is more akin to an artist's paintbrush than the artist herself.
+
+
+
+
+
+
+
+
+
+
+2. ARTICLE: How to Sue a Robot, 18 Utah L. Rev. 1021
+2018 
+Utah Law Review
+
+
+Roger Michalski
+Associate Professor at the University of Oklahoma College of Law
+
+
+Notes: 
+* The current answer is that you cannot sue a robot?. Robots are property. Property cannot have intent (only owners of property can). They are not entities with a legal status that would make them amendable to sue or be sued. If a robot causes harm, you have to sue its owner.
+* What is a robot/AI exactly: An employee, a franchisee, a slave, a subsidiary, a child, an animal, a subcontractor, an agent, or something else altogether?
+* While machine learning is built on the insights of human neural networks, it does not replicate the human brain.  As the saying goes, airplanes were inspired by birds, but they do not flap their wings. Artificial intelligence built on artificial neural networks is inspired by human brains but does not re-create human brains in a computational environment. Robots do stuff (e.g., turn on the blinker and switch lanes). But they do not have intentions, desires, passions, or consciousness (all important categories in many areas of law) in the same way humans do.
+* Artificial neural networks cannot tell us how they do things or how they arrived at a conclusion
+* One way we could approach the question of how to treat robots is to ask what they are. This approach asserts that the essential nature of a thing can guide our thinking about that thing.  For example, nobody asks about the role of rocks in litigation because their essential nature is passive and unfeeling.
+* Perhaps the core of robot-ness is autonomous decision-making;   or servility, cold rationality, soullessness, or mechanical robustness? Popular culture furnishes many examples of stories that emphasize different aspects of each fundamental trait. A focus on any of these traits could furnish a foundation for a different assessment of litigation-worthiness. Autonomous decision-making, for example, suggests an intellectual capacity expected of litigants. Mechanical robustness, in contrast, does not.
+* We do have moral duties towards other humans, of course. If robots were like humans, then they would similarly be under the umbrella of deontological derived moral duties. And the human-like look of many robots makes it tempting to anthropomorphize robots.   However, human-like appearances do not make something human. That said, non-human-like entities might someday have traits (other than appearance) that entitle them to human-like treatment. 
+* The strongest stand-alone candidate for a conceptual framework that can resolve the question of robots in civil litigation is a functional account. It asks about the practical effects of treating robots as separate from their owners for litigation purposes.  Does such treatment serve a useful function? This approach shifts our analytical focus away from the lofty realms of philosophy to the pressing and concrete demands and effects of litigation.
+* Courts and legislators have engaged in a functional argument about artificial personhood before when dealing with the emergence of corporations. Corporate personhood in litigation is clearly a legal fiction. Corporations have no soul to condemn, no body to punish,  can live forever unlike humans, and do not have sentimental feelings towards a house where their child took first steps that leads them to call that place home.
+* The conception of robots as mere property has important consequences in procedure. For example, property alone cannot serve as an independent basis for personal jurisdiction. An autonomous robot driving around in Montana cannot, on its own, create the basis for Montana courts to assert jurisdiction over the robot. As the Supreme Court argued in the seminal case of Shaffer v. Heitne(1977), "the phrase, "judicial jurisdiction over a thing,' is a customary elliptical way of referring to jurisdiction over the interests of persons in a thing."  As such, Montana courts would have to analyze the contacts of the robot's owners with Montana to determine whether its courts could hear the case consistent with constitutional limitations on their powers.
+* Another model is to treat robots like corporations. Like robots, corporations are inherently human owned (directly or indirectly), controlled by humans, and can exist   for a broad spectrum of purposes.  Even if we do not treat robots like corporations, robots will still likely confront the law as corporations with increased frequency. 
+* An agent model could serve as the foundation of robot litigation by recognizing that robots act on behalf of somebody else (their owners) but could potentially act beyond the intent and authorization of the owners. For example, a robot endowed with complex machine learning processes might one day do something that was unanticipated (and maybe un-anticipatable) by the owner and should not be imputed to the owner.
+* The arguments against some of the approaches is that it would be unfair to robot owners to create special robot litigation rules that deviate from the usual litigation fabric. Potentially, such litigation rules could also stifle economic activity (discouraging the deployment of robots) and innovation (discouraging R&D into robot technology).
+* Solution: split the bundle
+   * Legislators and courts created numerous special litigation rules for corporations but also left many litigation rules untouched. The challenges of corporate litigation necessitated a doctrine-by-doctrine, rule-by-rule, statute-by-statute approach. Each had to be evaluated and either modified or retained. 
+* A sophisticated program that we encounter over the internet might display autonomy similar to the autonomy displayed by a self-driving car. For example, a virtual assistant without a clear physical embodiment might learn your travel routines and anticipate your needs and desires and, on its own, make suitable reservations at your new favorite shawarma restaurant in a town you have never visited before.
+
+
+3. ARTICLE: WHOSE ROBOT IS IT ANYWAY?: LIABILITY FOR ARTIFICIAL-INTELLIGENCE-BASED ROBOTS, 20 U. Ill. L. Rev. 1141
+2020 
+University of Illinois Law Review
+
+
+Omri Rachum-Twaig
+PhD (Law), Tel Aviv University, Faculty of Law; Adjunct Professor, Tel Aviv University, Faculty of Law; Research Fellow, Federmann Cyber Security Research Center, The Hebrew University of Jerusalem, Faculty of Law
+
+
+
+
+Notes:
+* One could argue that we can make AI foreseeable, for example by embedding ground rules that will bypass any autonomous decision-making of the robot.  This is perhaps possible to a certain extent. For example, we may be able to include certain basic principles as ground rules for an AI-based robot, such as  a do-not-kill rule. 
+* Another aspect with respect to which designers of AI-robots is better situated is the potential ability to include emergency brakes, shut-down capabilities, or features that make a robot unintelligent at the press of a button.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4. ARTICLE:  Punishing Artificial Intelligence: Legal Fiction or Science Fiction, 53 U.C. Davis L. Rev. 323
+November 2019 
+UC Davis Law Review
+
+
+Ryan Abbott
+Professor of Law and Health Sciences, University of Surrey School of Law and Adjunct Assistant Professor of Medicine, David Geffen School of Medicine at University of California, Los Angeles
+
+
+ Alex Sarch
+Reader (Associate Professor) in Legal Philosophy, University of Surrey School of Law
+
+
+Notes: 
+* Perhaps the best-known defender of punishing AI is Gabriel Hallevy(paper here;full professor of criminal law at the Faculty of Law, Ono Academic College, the largest faculty of law in Israel). He contends that "when an AI entity establishes all elements of a specific offense, both external and internal, there is no reason to prevent imposition of criminal liability upon it for that offense." 
+* AI can behave in ways that display high degrees of  autonomy and irreducibility
+* Problem:
+   * The broad form of the Eligibility Challenge holds that because AI lacks the capacity to deliberate and weigh reasons, AI cannot possess broad culpability of the sort that criminal law aims to respond to.  A fundamental purpose of the criminal law is to condemn culpable wrongdoing, as it is at least the default position in criminal law doctrine that punishment may be properly imposed only in response to culpable wrongdoing.
+* Solutions:
+   * Respondeat Superior
+      * The simplest answer to the Eligibility Challenge has been deployed with respect to corporations. Corporations are artificial entities that might also be thought ineligible for punishment because they are incapable of being culpable in their own right
+      * Respondeat superior allows mental states possessed by an agent of the corporation to be imputed to the corporation itself provided that the agent was acting within the scope of her employment and in furtherance of corporate interests.
+   * Strict Liability
+      * Look for ways to punish AI despite its lack of a culpable mental state and don’t simply reach for a consequentialist justification  of the conceptual confusion or ineptness involved in applying criminal law to AI
+      * One way to do this would be to establish a range of new strict liability offenses specifically for AI crimes - i.e., offenses that an AI could commit even in the absence of any mens rea like intent to cause harm, knowledge of an inculpatory fact, reckless disregard of a risk or negligent unawareness of a risk. In this sense, the AI would be subject to liability without "fault." This would permit punishment of AI in the absence of mental states. Accordingly, strict liability offenses may be one familiar route by which to impose criminal liability on an AI without sacrificing the principle of legality.
+   * A Framework for Direct Mens Rea Analysis for AI
+      * This could require an investigation of AI behavior at the programming level and offer a set of rules that courts could apply to determine when an AI possessed a particular mens rea - like intent, knowledge or recklessness - or at the very least, when such a mens rea could be legally constructed.  This inquiry could draw on expert testimony about the details of the AI's code, though it need not. 
+* One conceivable way to argue that an AI (say, an autonomous vehicle) had the intention (purpose) to cause an outcome (to harm a pedestrian) would be to ask whether the AI was  guiding its behavior so as to make this outcome more likely (relative to its background probability of occurring).
+* Just as the Computer Fraud and Abuse Act criminalizes gaining unauthorized access or information using personal computers,  an AI Abuse Act could criminalize malicious or reckless uses of AI. In addition, such an Act might criminalize the failure to responsibly design, deploy, test, train, and monitor the AIs one contributed to developing.
+* To the extent there is inadequate civil liability for Hard AI Crimes, the Responsible Person proposal could be repurposed so that the Responsible Person might only be civilly liable.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5. ARTICLE: "I, Robot - I, Criminal"--When Science Fiction Becomes Reality: Legal Liability of AI Robots committing Criminal Offenses, 2010 Syracuse Sci. & Tech. L. Rep. 1
+Spring 2010 
+Syracuse Science & Technology Law Reporter
+
+
+
+
+Gabriel Hallevy
+Associate Professor, Faculty of Law, Ono Academic College
+
+
+Notes:
+* In order to impose criminal liability upon a person, two main elements must exist.  The first is the factual element, i.e., criminal conduct (actus reus), while the other is the mental element, i.e., knowledge or general intent in relation to the conduct element (mens rea). 
+* If AI can never be guilty, then who should be liable? 
+   * The Perpetration-by-Another Liability Model: AI Robots as Innocent Agents
+      * There are two candidates: the first is the programmer of the AI software installed in the specific robot and the second is the user
+      * In both scenarios, the actual offense was committed by the AI robot. The programmer or the user did not perform any action conforming to the definition of a specific offense; therefore, they do not meet the actus reus requirement of the specific offense
+* The Natural-Probable-Consequence Liability Model: Foreseeable Offenses Committed by AI Robots
+   * The natural-probable-consequence liability model only requires the programmer or user to be in a mental state of negligence, not more. Programmers or users are not required to know about any forthcoming commission of an offense as a result of  their activity, but are required to know that such an offense is a natural, probable consequence of their actions.
+* The Direct Liability Model: AI Robots as Direct Subjects of Criminal Liability
+   * If an AI robot is capable of fulfilling the requirements of both the factual element and the mental element, and, in fact, it actually fulfills them, there is presumptively nothing to prevent criminal liability from being imposed on that AI robot.
+   * The criminal liability of an AI robot does not replace the criminal liability of the programmers or the users, if criminal liability is imposed on the programmers and users by any other legal path. Criminal liability is not to be divided, but rather, added.
+-“Legal” People: 
+* Admiralty boats
+* Corporations as legal persons
+   * Crimes of corporations
+   * Constitutional Rights
+* Slavery systems 
+   * Feudal systems 
+   * Slaves are people
+   * Chattel system → US 
+* Why are we taking different approaches to patent versus copyright law?
+
+
+-Countries:
+* Criminal Intent of Corporations, Criminal Law Article 
+-Diluted Forms of Personhood in Law in Current
+-Things we already know(law of personhood)

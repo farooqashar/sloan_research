@@ -1,0 +1,318 @@
+﻿Facebook Currency 1
+Ashar Farooq
+December 6th, 2020
+
+
+
+
+Overview of Content: 
+
+
+Facebook Currency Libra Intro
+
+
+* April 2020 White Paper published by the Libra Association 
+* Financial Services Committee, United States House of Representatives, July 17, 2019 Testimony by MIT Professor Gary Gensler on Examining Facebook’s Proposed Cryptocurrency and Its Impact on Consumers, Investors, and the American Financial System
+* SUMMARY: People questioned the usefulness of cryptocurrencies and others were worried about the power already accumulated by Facebook. The cryptocurrency unveiled in mid 2019 , called Libra, did not overcome concern that Facebook does not effectively protect the private information of its users — a fundamental task for a bank or anyone handling financial transactions. Facebook has sidestepped the project and are planning/researching  smaller incremental changes as opposed to a large and largely unclear/unspecified Libra currency.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1.  Inside Facebook’s Botched Attempt to Start a New Cryptocurrency
+October 16th, 2019
+Wall Street Journal 
+
+
+
+
+Notes: 
+* Lawmakers, already uncomfortable with how Facebook handled privacy around users’ photos and posts, have drawn the drawbridge on users’ money
+* The Treasury Department said it was concerned that libra could be misused by money launderers and terrorist financiers
+* To achieve its grand ambitions to mint a new currency, Facebook leaned on a loosely knit alliance of companies, many of whom signed up amid wariness of the tech giant treading on their turf. When libra came under fire, partners including Visa Inc., Mastercard Inc. and PayPal Holdings Inc. quickly jumped ship.
+* Libra was envisioned as a digital alternative to government-backed currency, widely accepted by merchants world-wide and capable of being sent instantaneously across borders at low cost. 
+* Facebook has been experimenting with consumer payments for more than a decade. The company introduced its own coin, Facebook Credits, in 2009 that could be used to buy virtual goods inside videogames and from its online gift shop
+* Dozens of other companies, eager to reach Facebook’s massive user base, would have joined the Libra Association, contributed $10 million apiece to build out a global payments network and build their own apps to interact with it. To overcome the volatility that had undermined bitcoin, libra’s value would be pegged to a pool of currencies and government-backed assets.
+* In pitches to Visa, Mastercard and PayPal, Mr. Marcus’s team played to their fear of missing out as people started conducting their financial transactions in the same online social spheres where they hung out with friends (Facebook), shared messages (WhatsApp) and interacted with their favorite brands (Instagram). Already in China, hundreds of millions of consumers shunned credit cards in favor of WeChat Pay, a digital wallet built into one of the country’s biggest messaging platforms
+* Washington, which has had Facebook in its sights for some time, wasn’t impressed. Rep. Waters asked Facebook to declare a moratorium on libra’s launch and members of her committee drafted the “Keep Big Tech Out Of Finance Act” to limit Facebook and other Silicon Valley giants from expanding deeper into financial services
+* Over that summer, the Treasury Department sent a letter to companies including Visa, Mastercard, PayPal and Stripe asking for an overview of their money-laundering compliance programs and how libra would fit into them. Some of the companies felt hamstrung in responding without more clarity from Facebook
+* JPMorgan Chase & Co. and Goldman Sachs Group Inc., however, had rejected Facebook’s invitation back before the unveiling announcement. Both declined in part because they worried a cryptocurrency could be used for criminal activities that would violate strict money-laundering and sanctions rules
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2. Facebook Plans Global Financial System Based on Cryptocurrency
+June 18th, 2019
+New York Times
+
+
+Notes: 
+* The Libra digital token would have been directly backed by government currencies like the dollar or euro, according to a paper describing the technology. So unlike Bitcoin, the best-known cryptocurrency, it will not fluctuate in value any more than real-world money, and it is not likely to appeal to speculators
+* To have acquired Libra (a reference to the Roman measurement for a pound, once used to mint coins) through a new Facebook subsidiary, called Calibra, users would have had to show government identification like a driver’s license, which would make it unappealing for black market transactions like buying drugs
+* Facebook also distanced  itself from direct management of Libra. The project is to be run by a nonprofit entity in Switzerland, the Libra Association, which is independent of the social network. The association will be overseen by other companies, which will have voting power over the design and release of Libra, Facebook officials said.
+* The structure of the new Libra currency is based on the blockchain technology made famous by Bitcoin. Libra’s blockchain is permissioned — however — meaning that transactions can only be added to it by a group of trusted parties, such as the Libra Association,etc.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3. Here’s why regulators are so worried about Facebook’s digital currency
+September 19th, 2019
+CNBC
+
+
+Notes: 
+* A running theme from a number of regulators and lawmakers, who worry libra would compete with government currencies. That’s because Facebook is such an influential platform, with more than 2.4 billion monthly active users as of July 2019. And the companies it’s partnering with in a Switzerland-based consortium known as the Libra Association include giants like Uber, Visa and Vodafone
+* France and Germany’s finance ministers both railed against libra, saying Facebook’s blueprint for the currency “fails” to address key risks around financial security, investor protection and anti-money laundering laws
+* Global privacy watchdogs from the U.K., US and EU have expressed concern over how little Facebook has addressed how it will protect user information with libra
+* Facebook’s argument is that it won’t be minting new money with its digital coin. Libra is instead tied to a basket of currencies like the dollar so as to maintain a stable value. The main aim of the token is to allow people to move money around the globe with ease
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4. Facebook’s Libra currency to launch next year in limited format
+November 27th, 2020
+Financial Times
+
+
+Notes: 
+* The long-awaited Facebook-led digital currency Libra is preparing to launch as early as January, according to three people involved in the initiative, but in an even more limited format than its already downgraded vision
+* Libra’s exact launch date would depend on when the project receives approval to operate as a payments service from the Swiss Financial Market Supervisory Authority, but could come as early as January
+* First launched in June 2019, the scaling down of Libra’s vision comes as it has received a sceptical reception from global regulators, who have warned that it could threaten monetary stability and become a hotbed for money laundering. While the restricted scope may appease wary regulators, critics have complained that a move to single-currency coins could hit users looking to convert currencies with additional costs, undermining its ambition to enable greater financial inclusion
+* Originally launched by Facebook executives, Libra suffered a difficult birth when a wave of its founding members — including PayPal, Mastercard, Vodafone and eBay — quit over in late 2019 and early 2020 and distanced themselves from the controversial project
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5. Facebook’s Libra 2.0
+June 22nd, 2020
+Brookings Institute
+
+
+  
+
+
+
+
+
+Notes: 
+* FULL REPORT HERE
+* A global digital currency called “Libra” was conceived of in order to help the billions of people around the world who lacked access to basic financial services. The currency would have been a “stablecoin” backed by a basket of sovereign currencies such as the dollar, the euro and the yen. The proposal provoked widespread skepticism about Mark Zuckerberg’s motives—surely financial inclusion was just a veil for data collection ambitions—as well as criticism that Libra would undermine the U.S. dollar and cause all sorts of other problems
+* Libra 2.0: 
+   * The biggest change is that the proposal now contemplates a series of digital stablecoins, each backed by a single sovereign currency, such as the U.S. dollar, rather than a single stablecoin backed by a basket of currencies. The concept of a multicurrency stablecoin is still present but only as a “digital composite of some of the single currency stablecoins available on the Libra network.” 
+      * It also could be seen as a scaling back of Facebook’s ambitions, for the proposal is now more like a PayPal with a different technological backbone than a competitor to sovereign currencies. While this may disappoint some crypto enthusiasts, it should reduce concerns about Libra undermining sovereign currencies or interfering with the execution of a central bank’s monetary policy
+   * The revised proposal says some aspects of compliance will be built into the system itself and will be automated; it also sets forth diligence and screening procedures that were absent from the original proposal
+   * The third change is greater detail on how the Libra Association will protect the reserve of sovereign currencies that it receives in exchange for issuing Libra stablecoins, which addresses safety and soundness concerns
+* The most significant consequence of the Libra proposal to date has been to accelerate work on the development of central bank digital currencies (CBDC)
+* A so-called “wholesale CBDC”—available only to financial or other large institutions—might represent an improvement of existing electronic payment systems but is unlikely to significantly change how most of us use money, unless a broad swath of institutions are included. But in that respect, it seems quite similar to the initiative the Federal Reserve has already launched, called FedNow, to move the banking system closer to real-time payments
+* To date, the Federal Reserve has acknowledged the importance of studying the CBDC issue but has not disclosed any plans to develop or test its own version. It is focused instead on its FedNow project to improve efficiency of payments
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6. Facebook's controversial cryptocurrency gets a new name: Diem
+December 1st, 2020
+CNET
+
+
+Notes: 
+* This isn't actually Facebook's cryptocurrency. It's a project of the Diem Association, which Facebook originally co-founded as the Libra Association. The association, which will serve as a monetary authority for the cryptocurrency, says its purpose is to "empower billions of people," citing 1.7 billion adults without bank accounts who could use the currency.
+* Initially, the plan was to use a basket of assets to anchor the cryptocurrency's value. The association didn't say what those assets would be but indicated they would be denominated in major global currencies, like the dollar and the euro, which don't fluctuate intensely day to day. The association will buy more of the underlying assets to create, or "mint," new Diem when people want more of the cryptocurrency. When people cash out, the association will sell those assets and "burn" Diem
+* Will Facebook have direct control over Diem?
+   * No. Facebook is one of the members of the Diem Association, the nonprofit that will serve as a de facto monetary authority for the currency.
+* Why have association members dropped to now about only 27 members?
+   * Some of the bigger founding members appear to have gotten cold feet. Seven of the original 28 founding members -- that's a quarter of them -- dropped out before the association's inaugural meeting in Geneva. The exits included PayPal, eBay, Stripe and financial services giants Visa and Mastercard. The departures are big losses because those members brought expertise in payments and transfers technology
+* Is this just a ploy so Facebook can get my financial data and send more targeted ads?
+   * Unclear. Still some pending concerns by everyone.
+
+
+
+
+
+
+7.  ARTICLES & REMARKS:  Facebook's Libra: The Social Media Giant's Pursuit of Global Financial Inclusion  , 24 N.C. Banking Inst. 331
+March 2020
+North Carolina Banking Institute( UNC Law School)
+
+
+Lizzie R. Hobbs
+
+
+
+
+
+
+Notes: 
+* Lawmakers have expressed fears that cryptocurrencies could be used to launder money, finance terrorism, or destabilize central bank fiat currencies
+* Financial institutions and lawmakers have struggled over how to regulate cryptocurrencies since their inception, but Libra poses an additional level of complexity due to its affiliation with one of the most powerful social media companies in the world
+* Climate Trade, a fintech company in the environmental sector, designed a carbon-neutral cryptocurrency called "Climatecoin."  Climatecoin, an Ethereum-based cryptocurrency, aims to become the world's first blockchain-based platform for carbon credits trading.  Carbon credits are "a tradable permit or certificate that provides the holder of the credit the right to emit one ton of carbon dioxide or an equivalent of another greenhouse gas."  The cryptocurrency would allow peer-to-peer exchange of carbon credits. Devices could also calculate their own carbon emissions and purchase carbon credits to offset the emissions.
+* Libra is made up of three parts: (1) the blockchain; (2) a reserve of assets; and (3) the Libra Association with the ultimate goal of creating a more inclusive financial system through greater access. 
+* The Libra Association will serve as the centralized intermediary to manage and control Libra.
+* Unlike the majority of cryptocurrencies, Libra will be fully backed by a reserve of "real assets" held in the Libra Reserve
+* Arguably, the existence of a fund of assets backing the currency does not automatically ensure the stability of its value
+* The Libra Association created Calibra, a regulated subsidiary tasked with building Libra, to guarantee separation between social and financial data so Libra payments will not be connected to user's Facebook data. Calibra will build and operate services on Facebook's behalf through the Libra network.
+* As of 2019, China has not yet passed any legislation regulating cryptocurrencies as legal tender,  Switzerland has "relatively lenient policies," while Japan and the U.K. are somewhere in between.  The United States does not prohibit the use of cryptocurrencies but is actively working to develop legislation which would control and regulate the industry within its borders.
+* The SEC has taken a more active role in enforcing federal securities laws regarding cryptocurrencies by leading twenty enforcement actions in 2018. The SEC, relying on the 1946 Supreme Court decision in  SEC v. W.J. Howey Co., treats most tokens sold in initial coin offerings ("ICO") as securities and monitors ICOs for fraud and other misconduct. The SEC regulates the space via non-binding guidance, enforcement actions, and no-action letters.  
+* On the other hand, FinCEN classifies individuals who use or exchange cryptocurrency as money transmitters subject to state licensing laws and anti-money laundering requirements.  In an interpretive guidance released in May of 2019, FinCEN clarified that the Bank Secrecy Act applies to cryptocurrencies as well.
+* One proposed bill that circulated in the House is the bipartisan "Token Taxonomy Act," which would have the opposite effect of the Keep Big Tech Out Of Finance Act. 
+* The bill proposes an amendment to the Securities Act of 1933  and the Securities Exchange Act of 1934- the foundational statutes of the modern federal securities law framework - and would explain the Supreme Court's 1946 decision in  SEC v. W.J. Howey Co., which sets forth the factors to be considered in the determination of whether an investment constitutes an "investment contract" under the 1933 Act's definition of "security."  The amendments would exclude digital currencies from being defined as securities.
+* One of Libra's primary goals is to reach the unbanked population
+* Why Cryptocurrencies Can Reach the Unbanked?
+   * Cryptocurrencies in particular have unique qualities that address the common reasons - cost, distance, and distrust in the financial system - cited by unbanked adults for not having a financial account
+* Libra's Potential
+   * Advantages
+      * Facebook's massive platform is exactly what gives Libra the potential for seismic impact on financial inclusion. The pre-established social media platform would give Libra an edge by instantly establishing a cryptocurrency network of billions.  Moreover, Facebook's user coverage would make it easier for global access, particularly in developing countries which account for the largest unbanked populations
+   * Risks
+      * Given that Facebook's primary business consists of gathering information on users' identities and personality traits and using that data for its own economic gain, Libra might be at an increased risk of security  breaches from hackers, as access to this rich database of identity information would be a gold mine target for hackers
+      * The announcement of Libra came at a questionable time, as Facebook was being investigated for not regulating Russia's interference in the 2016 presidential election, its monopolistic advertising, and its part in circulating hate speech in Myanmar.
+      * After Facebook's mishandling of user data with Cambridge Analytica, lawmakers want evidence that a user's banking and payment information will not be a tool for targeted advertising

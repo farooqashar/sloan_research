@@ -1,0 +1,40 @@
+﻿Gerrymandering and AI 2
+Ashar Farooq
+December 24th, 2020
+
+
+
+
+Overview of Content: 
+
+
+Rucho v Common Cause
+
+
+Notes: 
+
+
+Majority Opinion(Roberts)
+* Voters and other plaintiffs in North Carolina and Maryland challenged their States’ congressional districting maps as unconstitutional partisan gerrymanders. The North Carolina plaintiffs complained that the State’s districting plan discriminated against Democrats; the Maryland plaintiffs complained that their State’s plan discriminated against Republicans. The plaintiffs alleged that the gerrymandering violated the First Amendment, the Equal Protection Clause of the Fourteenth Amendment, the Elections Clause, and Article I, §2, of the Constitution. The District Courts in both cases ruled in favor of the plaintiffs, and the defendants appealed directly to the Supreme Court.
+* The first case involves a challenge to the congressional redistricting plan enacted by the Republican-controlled North Carolina General Assembly in 2016.
+* The second case before the Supreme Court is Lamone v. Benisek, which dealt with a challenge to gerrymandering in Democrat-heavy Maryland and the state’s 2011 Plan that resulted in a flip from Republican to Democrat district.
+* The question in the “justiciability” of deciding such a case is whether there is an “appropriate role for the Federal Judiciary” in remedying the problem of partisan gerrymandering—whether such claims are claims of legal right, resolvable according to legal principles, or political questions that must find their resolution elsewhere.
+* Congress has regularly exercised its Elections Clause power, including to address partisan gerrymandering. The Apportionment Act of 1842, which required single-member districts for the first time, specified that those districts be “composed of contiguous territory in an attempt to forbid the practice of the gerrymander.” Later statutes added requirements of compactness and equality of population
+* Appellants suggested that, through the Elections Clause, the Framers set aside electoral issues such as the one before the Supreme Court as questions that only Congress can resolve. The Supreme Court disagreed with this through the examples of one person-one vote and racial gerrymandering. 
+* Another line of challenges to districting plans has focused on race. Laws that explicitly discriminate on the basis of race, as well as those that are race neutral on their face but are unexplainable on grounds other than race, are of course presumptively invalid
+* Partisan gerrymandering claims have proved far more difficult to adjudicate. The basic reason is that, while it is illegal for a jurisdiction to depart from the one-person, one-vote rule, or to engage in racial discrimination in districting, “a jurisdiction may engage in constitutional political gerrymandering.”  
+* In a League of United Latin American Citizens(LULAC) case, the plaintiffs challenged a mid-decade redistricting map approved by the Texas Legislature. Once again a majority of the Court could not find a justiciable standard for resolving the plaintiffs’ partisan gerrymandering claims. There are more examples of this throughout judicial history. 
+* The initial difficulty in settling on a “clear, manageable and politically neutral” test for fairness is that it is not even clear what fairness looks like in this context. There is a large measure of “unfairness” in any winner-take-all system. Fairness may mean a greater number of competitive districts. 
+* A permissible intent—securing partisan advantage—does not become constitutionally impermissible, like racial discrimination, when that permissible intent “predominates.”
+* Even the most sophisticated districting maps cannot reliably account for some of the reasons voters prefer one candidate over another, or why their preferences may change. Voters elect individual candidates in individual districts, and their selections depend on the issues that matter to them, the quality of the candidates, the tone of the candidates’ campaigns, the performance of an incumbent, national events or local issues that drive voter turnout, and other considerations.
+* Original unanswerable question: How much political motivation and effect is too much?
+* The majority concluded that partisan gerrymandering claims present political questions beyond the reach of the federal courts. Federal judges have no license to reallocate political power between the two major political parties, with no plausible grant of authority in the Constitution, and no legal standards to limit and direct their decisions.
+* Other States have mandated at least some of the traditional districting criteria for their mapmakers. Some have outright prohibited partisan favoritism in redistricting
+* One example is the Fairness and Independence in Redistricting Act, which was introduced in 2005 and has been reintroduced in every Congress since. That bill would require every State to establish an independent commission to adopt redistricting plans. 
+Dissenting Opinion(Kagan)
+* The partisan gerrymanders in these cases deprived citizens of the most fundamental of their constitutional rights: the rights to participate equally in the political process, to join with others to advance political beliefs, and to choose their political representatives. In so doing, the partisan gerrymanders here debased and dishonored our democracy, turning upside-down the core American idea that all governmental power derives from the people.
+* By drawing districts to maximize the power of some voters and minimize the power of others, a party in office at the right time can entrench itself there for a decade or more, no matter what the voters would prefer.
+* Partisan gerrymandering operates through vote dilution—the devaluation of one citizen’s vote as compared to others. By diluting the votes of certain citizens, the State frustrates their efforts to translate those affiliations into political effectiveness
+* Contrary to the majority’s suggestion, the District Courts did not have to—and in fact did not—choose among competing visions of electoral fairness. That is because they did not try to compare the State’s actual map to an “ideally fair” one (whether based on proportional representation or some other criterion). Instead, they looked at the difference between what the State did and what the State would have done if politicians hadn’t been intent on partisan gain. 
+* Courts all the time make judgments about the substantiality of harm without reducing them to particular percentage
+* These artificially drawn districts shift influence from swing voters to party-base voters who participate in primaries; make bipartisanship and pragmatic compromise politically difficult or impossible; and drive voters away from an ever more dysfunctional political process.

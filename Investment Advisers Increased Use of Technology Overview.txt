@@ -1,0 +1,67 @@
+﻿Investment Advisers Increased Use of Technology
+
+
+Ashar Farooq
+October 4th
+FinTech Conference 
+
+
+
+
+Speakers:
+1. Paul Glenn: 
+   1. Special Counsel at the Investment Advisor Association
+   2. A trial attorney in the SEC's Division Enforcement and was also a Special Counsel in the FCC's Office of General Counsel.
+2. Derek Newman:
+   1. Senior Regulatory Counsel at Motley Fool Wealth Management, where he advises a company and its advisory affiliates on a variety of issues, including complaints of legal and regulatory requirements for investment advisors
+   2. FCC's Division of Investment Management
+3. Rochelle Plesset Kaufman:
+   1. Senior Counsel in the Chief Counsel's Office of the Division of Investment Management
+   2. A prime drafter of the division's Guidance on Robo Advisors that was issued in February, 2017
+4. Mike Sherman:
+   1. He focuses his practice on the investment management industry, primarily representing investment advisors. He counsels clients on a wide variety of regulatory compliance and securities law issues, including developing, organizing, and registering new advisors and advising on compliance and disclosure matters related to their business activities, including the use of financial technologies in providing advisory services.
+
+
+Concept of a robo-advisor
+* A lower cost method for getting access to investment advice without human interaction
+* A robo-advisor is an advisor. It's subject to the Investment Advisers Act of 1940-- outdated) in the same way all of the same provisions to extend applicable that are applicable to any other advisor.
+*  Investment Advisers Act of 1940
+   * With certain exceptions, this Act requires that firms or sole practitioners compensated for advising others about securities investments must register with the SEC and conform to regulations designed to protect investors
+* Office of Information Education Advocacy, issued a bulletin in February, 2017, same day that we issued guidance on robo-advisors
+* The commission has instituted settlement proceedings and taken action against two robo-advisors, Wealthfront and Hedgeable, on false disclosures and invoking the Investment Advisers Act of 1940
+* As a general manner, robo-advisors should not be treated differently than traditional advisors.
+
+
+Issues: 
+1. Disclosure
+2. Suitability (The Fiduciary Duty)
+3. Effective Compliance Program
+
+
+Notes:
+* Robo-advisors(better clarifying term: digital advisors) need to be cognizant that their clients may not have the benefit of being able to ask clarifying questions as would occur in a human setting 
+* CRS is a short relationship summary form
+   1. Can form CRS be delivered electronically?
+   2.  Bulletin Rule on Form CRS 
+* Robo-advisors may be subject to an unstated and slightly higher standard. For example, there's certain expectations, perhaps, that robo-advisors will use tech savvy features to communicate certain disclosures that more traditional advisors wouldn't necessarily be expected to.
+* When do you have a fiduciary obligation when signing people up?
+* More clarity on services provided and services not provided is needed
+   * Are you trying to meet a specific objective? Are you providing comprehensive investment advice? What the caveats are there with respect to your transparency to the full scope of someone's portfolio?.
+* As it relates to how advisors gather information, they should consider whether their approach is solely questionnaire focused or primarily questionnaire focused, or whether there is more of a human touch involved. In the former case, you look at the questionnaire. Are the questions clear? Can someone who is-- who this advisor is targeting as their client-- understand the question and deliver an answer that allows the advisor to provide suitable advice to the client and understand the client?
+* Cash Solicitor Rule should be updated
+* Refer a Friend program
+* Marketing opportunity and advertising opportunity for robo-advisors. The online community seems to do a much better job of vetting services.
+* Investment Advisor Association(IAA) Comment Letter February 10
+* Investment Advisor Association(IAA) Technology Innovation Committee and Digital Adviser Committee
+* OCC's interpretive letter
+* North American Securities Administrators Association(NASAA) Informed Investor Advisory
+* There's also issues about assets or custody, this is the blockchain crypto assets, but other types of assets are difficult to custody but also difficult to steal.
+* A federally covered advisor that would qualify as a qualified custodian might be a big development.
+* Investment Advisors should continue communicating in the pandemic to clients
+* The Emerging Regulation of Robo-Advisers: Practical Advice Webinar by Dechert LLP(an international law firm of more than 900 lawyers with practices in corporate and securities, complex litigation, finance and real estate, and financial services and asset management. It was founded in Philadelphia and is registered as a limited liability partnership under Pennsylvania law)
+* Key Takeaways from SEC FinTech Forum
+   * Webcast
+* Top robo advisors in 2020: Performance reviews, returns, and comparisons
+* Wealthfront Blog
+* Schwab Intelligent Portfolios® and Schwab Intelligent Portfolios PremiumTM
+   * Schwab Questionnaire

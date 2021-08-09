@@ -1,0 +1,95 @@
+﻿Digital Investment Advisers 
+Ashar Farooq
+October 18th, 2020
+
+
+
+
+Overview of Content: 
+
+
+Fiduciary Duty Rule  → SEC 
+Newsletters/Investment Advisor Info/Links
+Enforcement Actions/SEC Cases
+Random Potential FinTech Areas 
+
+
+Notes:
+* Commission Interpretation Regarding Standard of Conduct for Investment Advisers Rule
+   * This Final Interpretation is intended to reaffirm, and in some cases clarify, certain aspects of an investment adviser’s fiduciary duty under the Advisers Act. The Final Interpretation does not itself create any new legal obligations for advisers
+   * The fiduciary duty to which advisers are subject is not specifically defined in the Advisers Act or in Commission rules, but reflects a Congressional recognition “of the delicate fiduciary nature of an investment advisory relationship” as well as a Congressional intent to “eliminate, or at least to expose, all conflicts of interest which might incline an investment adviser—consciously or unconsciously—to render advice which was not disinterested.”
+   * The fiduciary duty follows the contours of the relationship between the adviser and its client, and the adviser and its client may shape that relationship by agreement, provided that there is full and fair disclosure and informed consent.
+   * In other words, an adviser’s federal fiduciary duty may not be waived, though it might apply differently in the manner that reflects the agreed-upon scope of the relationship.
+   * Duty of Care
+      * Duty to Provide Advice that is in the Best Interest of the Client
+         * Reasonable Inquiry into Client’s Objectives
+         * Reasonable belief that advice is in the best interest of the client
+      * Duty to Seek Best Execution
+      * Duty to Provide Advice and Monitoring over the Course of the Relationship
+   * Duty of Loyalty
+   * Potential Economics Impacts
+      * Based on SEC’s experience as the long-standing regulator of the investment adviser industry, the Commission’s interpretation of the fiduciary duty under section 206 of the Advisers Act described in the Final Interpretation generally reaffirms the current practices of investment advisers. Therefore, they expect there to be no significant economic effects from this Final Interpretation. 
+* Rulemaking and Interpretations Press Release on June 5th, 2019
+* SEC’s Rulemaking Package for Investment Advisers and Broker-Dealers Response by an SEC Investor Advocate
+   * The Commission has taken a step in the wrong direction in its interpretation of the fiduciary duty that investment advisers owe to their clients.
+   * The Regulation Best Interest is an improvement over the existing standard of conduct for broker-dealers, especially with the suitability standard. 
+   * The Form CRS relationship summary probably will fail to achieve its original objectives and may cause investor confusion.
+   * The Commission’s interpretation of “solely incidental” gives official sanction to broker-dealers who engage in conduct that is very advisory in nature. The line between investment advisers and broker-dealers is still blurred.
+* Regulation Best Interest and the Investment Adviser Fiduciary Duty: Two Strong Standards that Protect and Provide Choice for Main Street Investors Speech by Chairman Jay Clayton in July 2019
+   * Summary Overview of Rules and Interpretations
+      * Regulation Best Interest – Enhancing the Standards of Conduct for Broker-Dealers
+      * Fiduciary Interpretation – Affirming and Clarifying the Investment Adviser Fiduciary Duty
+         * The Fiduciary Interpretation confirms the Commission’s longstanding view that an investment adviser must, at all times, serve the best interest of its client and not subordinate its client’s interest to its own.
+      * Form CRS Relationship Summary – Enhancing Transparency and Comparability
+      * Solely Incidental Interpretation – Clarifying Broker-Dealer and Investment Adviser Activities
+      * Arguments against: 
+         * The Regulation Best Interest standard of conduct will not do enough to protect retail investors
+         * Regulation Best Interest is deficient because it does not define “best interest” and does not require a broker to recommend the “best” security
+         * The Fiduciary Interpretation weakens the existing fiduciary duty that applies to investment advisers by not requiring advisers to “put clients first”
+         * The Fiduciary Interpretation weakens the existing fiduciary duty that applies to investment advisers by not requiring advisers to avoid all conflicts
+         * The standards of conduct under Regulation Best Interest and our Fiduciary Interpretation can be satisfied by disclosure alone
+         * Regulation Best Interest is a weak standard because it does not require broker-dealers to monitor a customer’s account or impose an ongoing duty
+         * The relationship summary will not accomplish its original goals of addressing investor confusion regarding the differences between brokers and advisers
+* IAA Analysis and Commentary On SEC’s Rulemaking Package for Investment Advisers and Broker-Dealers and General Website of Advocacy around SEC Fiduciary Standard
+   * The SEC’s rulemaking did not alter the investment adviser’s special rela- tionship of trust and confidence with its clients.
+   * The rulemaking package presents a number of potential challenges.
+* IAA Newsletter
+* US News Advisor Newsletter
+* Hedgeable Mailing List
+* BD/IA: Regulation In Focus Newsletter/Updates
+* Investor.gov Updates
+* Wealthfront Blog  
+* Perkins Coie LLP Blog
+* PLI Fundamentals of Investment Adviser Regulation 2020
+
+
+Enforcement Actions/SEC Cases
+
+
+   * IMPACT ANALYSIS: Robo-adviser enforcement cases highlight advertising, solicitation compliance by Reuters
+   * SEC Goes After Robo Advisers for the First Time by Wall Street Journal
+   * SEC Brings First Enforcement Actions against Robo-Advisers by Perkins Coie’s Investment Management Practice
+   * Wealthfront Response: 
+      * In a statement about the charges, Wealthfront said: “We take our regulatory duties seriously at Wealthfront and are happy to have reached a settlement with the SEC. The settlement order addressed Wealthfront’s retweets of clients’ positive tweets from our corporate account and compensation to some bloggers for client referrals without proper disclosures. Additionally, Wealthfront did not have proper disclosure in its tax-loss harvesting white paper concerning monitoring for any and all wash sales that could occur in client accounts. For example, a wash sale can be triggered by infrequent events outside of tax-loss harvesting trading, including a client changing their risk score or a withdrawal. During the period Jan. 1, 2014 to Dec. 31, 2016, wash sales made up approximately 2.3 percent of tax losses harvested for the benefit of clients. Therefore, the average Wealthfront client would have received 5.67 percent of the total annual harvesting yield versus 5.8 percent.”
+Random Potential FinTech Areas 
+* Banking/Finance
+* Big Data
+* Automated Decision Making and Artificial Intelligence
+* Cloud Computing
+* Data Security/Privacy
+* Consumer Electronic Payments
+* Capital Formation: Crowdfunding
+* Risk Management and Regtech/software-as-a-service (SaaS)
+
+
+
+
+
+
+
+
+--- Legal Personhood and AI Paper/Law Review
+--- Can we put an algorithm on trial?
+---Monkey Selfie 
+---Can we put robo advisers on trial?
+-- Client reports about robo-advisers by Law Firms

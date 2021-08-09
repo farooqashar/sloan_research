@@ -1,0 +1,440 @@
+﻿Legal Personhood and AI 3
+Ashar Farooq
+November 15th, 2020
+
+
+
+
+Overview of Content: 
+
+
+Copyright and AI
+Legal Persons(Animals, Environment)
+
+
+
+
+1. ARTICLE: ARTIFICIAL INTELLIGENCE, COPYRIGHT, AND COPYRIGHT INFRINGEMENT, 24 Marq. Intell. Prop. L. Rev. 15
+Winter 2020
+Marquette Intellectual Property Law Review
+
+
+Zack Naqvi
+J.D. Candidate, Class of 2020, William S. Richardson School of Law, University of Hawai'i at Manoa
+
+
+Notes: 
+* AI are not human beings and are not even recognized as legal persons, so they cannot own the copyright to their created works. Three fundamental criteria for copyright protection are: (1) original; (2) work of authorship; and (3) fixed in a tangible form
+* Originality requires (1) independent creation and (2) creativity on part of the creator of the work.
+* Copyright law  will allow two different creators to have copyright in similar works as long as they both were created independently of each other.
+* The copyright act requires that the tangible medium be construed broadly because the medium can be one that is "now known or later developed" and that fixation of the work is sufficient if it can be "perceived, reproduced, or otherwise communicated" directly or with the aid of a machine or device
+* As long as AI produces work that is fixed on any tangible medium, the AI has met the fixation element for copyright purposes
+* Since animals are not considered humans, they cannot hold a copyright even if they satisfy all the other elements of copyright.
+* Naruoto v. Slater(2018)
+   * In this case, human photographer, David Slater, left his camera unattended in a wildlife reserve in Sulawesi, Indonesia. A crested macaque monkey, Naruto, found the camera and began taking selfie photographs. Slater took the pictures and published them in a book in which he described the selfies of Naruto as "posing to take its own photograph, unworried by its own reflection, smiling. Surely a sign of self-awareness?"  The United States Court of Appeals for the Ninth Circuit held that since animals are not human, Naruto lacked subject matter jurisdiction under Article III of the constitution and failed to state a claim under the Copyright Act. The court made no remark regarding how it would have ruled had Naruto been a pet, and therefore property of a human being. 
+* While there is no clear jurisprudence on how sentient AI will be treated under the Copyright Act, it's unlikely that sentient AI will be afforded copyright protections because these protections are only available to human authors.
+* Since AI are not able to hold copyright in any of the type of products discussed above, they cannot be sued for damages. Therefore, there must be an alternate party that may hold the copyright and also be liable for the infringement
+* Generally, only natural persons can be agents. Since AI lacks required authorship for copyright protection, it is unlikely that AI can be treated as agents for agent-principal purposes. However, many states have made exceptions for the natural person requirement and allow corporations to serve as agents under certain circumstances.
+   * California Corporations Code allows a corporation to serve as an agent for the purpose of service of process if it meets statutory requirements.
+   * Hawaii's Corporations and Partnerships laws allow a registered agent to be "[a] domestic entity authorized to transact business or conduct affairs in this State."
+* Agent-principal law can be extended to allow the AI to be an agent if the AI is controlled by a natural person.
+* Two theories that this article proposes are (1) treating the AI as agents (synonymous with employees) and (2) treating AIs as consumer products.
+* While the programmers are the ones who create the AI, they do not have any rights in the subsequent work that the AI produces.
+* With the increasing pace at which AI is able to create content, many companies have gone to markets where they can sell the AI to consumers, and the consumer uses the AI to generate the new work. 15 U.S.C. § 2052(5) defines consumer product as, "any article, or component   part thereof, produced or distributed (i) for sale to a consumer for use in ... a household or residence, a school, in recreation, or otherwise, or (ii) for the personal use, consumption or enjoyment of a consumer ... ." It is clear that AI can be a consumer product that a company creates and sells to end-users.
+* AI adds a nuance to the independent creation doctrine because it can produce wide swarths of work at a faster rate than humans are able to produce.
+* One suggestion is that AI should be treated like a corporation. This seems like a logical step considering that in October 2017, Saudi Arabia became the first country in the world to give an AI-robot citizenship.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2. ARTICLE: ARTIFICIAL CREATIVITY: EMERGENT WORKS AND THE VOID IN CURRENT COPYRIGHT DOCTRINE, 22 Yale J. L. & Tech. 1
+2020
+Yale Journal of Law & Technology
+
+
+Tim W. Dornis
+
+
+Ph.D./Dr. iur. (Tuebingen/Germany), J.S.M. (Stanford University), attorney-atlaw (New York), Professor of Law, Leuphana Law School (Lueneburg/Germany), and Global Professor of Law, NYU School of Law (New York/Paris)
+
+
+Notes: 
+* Only a few legal systems expressly regulate AI-generated creations.
+* The United Kingdom's Copyright, Designs and Patent Act 1988 (CDPA) is the most prominent example.  Similar rules can be found in the laws of New Zealand, Hong Kong, India, and the Republic of Ireland. Section 9(3) of the CDPA provides for a fiction of ownership. It reads, "In the case of a literary, dramatic, musical or artistic work which is computer-generated, the author shall be taken to be the person by whom the arrangements necessary for the creation of the work are undertaken."  The term "computer-generated," as it is further (and somewhat contradictorily) explained in section 178 of the Act, "means that the work is generated by computer in circumstances such that there is no human author of the work."
+* No explicit requirement of a human creation exists, but several legal instruments--namely the Software, the Database, and the Term of Protection Directives--contain rules requiring "self-created" works of an "originator" that can be interpreted to require a quintessentially human creativity. [European Union]
+* German copyright law provides an illustrative example. According to section 2(2) of the German Copyright Act, a "work" in the legal sense can only be a "personal intellectual creation."  By definition, the activity of a human person is required. This is why neither animals nor machines can create a work in the sense of the Act.  Similar concepts exist in other civil-law jurisdictions, such as Italy, where the Copyright Act defines protectable subject matter as "works of the mind having a creative character."  Hence, when an AI application is utilized for production, a distinction is required as to whether it merely functions as a tool or instrument of the human actor's creativity, or whether the human actor has given up control over both the production process and its outcome. In the latter case of AI autonomy, the spiritual connection between "work" and "creator" is deemed missing. Accordingly, no copyright accrues--even though the result may be sufficiently "creative."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3. ARTICLE: The Machine as Author, 105 Iowa L. Rev. 2053
+Fall 2019
+Iowa Law Review
+
+
+Daniel J. Gervais, PhD
+
+
+Milton R. Underwood Chair in Law, Vanderbilt University. Associate Reporter, Restatement of Copyright, First. 
+
+
+Notes: 
+* Four reasonings that have emerged to justify copyright protection for machine productions:
+   * Protecting Value
+      * "If it is worth copying it is worth protecting."
+   * Marketplace Competition
+      * If machine-productions are copyright-free, then machines produce  free goods (e.g., music) that compete with paid works (that is, those created by humans expecting a financial return) and thus distort the market
+   * Role of Aesthetic Merit
+      * Copyright doctrine does not care about the quality or merit of a copyrighted work - indeed, this has been a tenet of copyright law for well over a century - machine productions should be protected
+   * Humans as Proxy Authors
+      * If  A owns the AI code,  A also owns what the AI code produces. The same reasoning could be applied to a machine's user or owner.
+* Reasonings that have emerged to NOT justify copyright protection for machine productions:
+   * The Humanness of Authorship
+      * The fact that the first state copyright statutes and the first federal (U.S.) copyright statute of 1790 were near identical copies of the (British) Statute of Anne of 1710
+      * The notion of creativity normatively embedded in copyright law since its very origin has inexorably been linked to the human mind
+   * With Rights Come Responsibilities
+      * If one is responsible for one's writing, then one can legitimately ask for a right in protecting moral or material interests in that writing.
+   * Originality
+      * The legislative history of the 1976 U.S. Copyright Act shows that originality is required for a literary or artistic production to be protected by copyright
+      * In Burrow-Giles Lithographic Co. v. Sarony(1884), the Supreme Court had to decide whether a photograph of Oscar Wilde was original. In concluding that it was, the Court noted the creative choices made by the photographer, including pose, costume, lighting, accessories, and the set itself. 
+* Applications
+   * Computer-Created Productions
+      * This scenario is most likely to land on a court's docket, is one in which protection by copyright of music, news releases, or other texts or images produced by an AI machine is asserted by a plaintiff.
+      * The task of a court would be to determine whether the choices that caused the apparent originality were embedded in (human-written) code in a way that the output was "caused" by the program, as in cases applying copyright protection to the output of audiovisual games
+   * AI Photography
+      * In a famous British case, the last known photograph taken by a security camera of Diana, Princess of Wales, before her fatal car crash in Paris, was denied copyright protection based on a rather novel public interest defense. The camera had no autonomy and the angle and location were likely chosen for functional (security-related) considerations. 
+      * Drones and other AI-capable systems can, in contrast to fixed security cameras, make autonomous or semi-autonomous decisions.  Even basic digital cameras in "automatic" mode make most of the decisions other than where to point and shoot
+   * AI-Aided ("Joint") Works
+      * Parsing the source of creative choices is not new. Courts have done so repeatedly in deciding whether authors of a work are joint authors, which includes a determination that each author has made a copyrightable (though not necessarily self-standing) contribution.  The contributions need not be equal, either qualitatively or quantitatively.  An important indicium that a person is an author is the "contributor's decision making authority over what changes are made and what is included in a work." Finally, a contribution must be more than "de minimis" to qualify for copyright protection.
+
+
+
+
+4. ARTICLE: MONKEY BUSINESS: COPYRIGHT, STUNT LITIGATION, & NEW VISIONS IN ANIMAL LAW, 9 J. Animal and Environmental L. 1
+Fall 2017
+Journal of Animal & Environmental Law
+Nathan Hakimi
+
+
+Daniel J. Gervais, PhD
+Brandeis University and Chicago-Kent College of Law
+
+
+Notes: 
+* In the case of Strickland v. Medlen, a Texas supreme court judge declared that "barring legislative reclassification," there could be no advent of damages for the sentimental value of a wrongfully killed pet
+* In the case of Hercules and Leo, where animal rights activists attempted to free two chimpanzees on a petition for habeas corpus, the New York Appellate Court consoled the losers with the reassurance that "our rejection of a rights paradigm for animals does not leave them defenseless. The Legislature has extended significant protections to animals."
+* In Tennessee Valley Authority v. Hill, the Supreme Court ruled in favor of a certain fish species protected by the Endangered Species Act. This ruling was derived from a desire to defer to the legislature and to avoid involvement in animal law disputes
+* In Cetacean Community v. Bush, suit was brought against the government in the name of the cetacean community of the world's whales, dolphins, and porpoises, alleging that proposed deployment by the Navy of low frequency active sonar (LFAS) violated the ESA (Endangered Species Act) and MMPA (Marine Mammals Protection Act). It was held in that case that "absent a clear direction from Congress in either the MMPA or the Administrative Procedure Act, ...animals do not have standing to enforce the permit requirement of the MMPA."  In Naruto's case this holding served as precedent for the conclusion that where the Copyright Act is silent on whether or not animals can sue, there is an assumption that only humans can -- the reasoning being that "if Congress and the President intended to take the extraordinary step of authorizing animals as well as people and legal entities to sue, they could, and should, have said so plainly."
+* In order to justify an extension of legal rights to animals, there must be a resolution of assumptions and problems raised by religion, philosophy, science, and psychology
+* The question is whether a threshold requirement for assignment of reward and liability to a non-human entity should be that the entity possess "intentionality," and whether in Naruto's case it should have made a difference
+   * The district court, of course, did not address the issue, as it resolved the case on the basis that the Copyright Act does not confer standing to animals. Had that come out differently, would it matter whether Naruto had intended to produce photographs when he pressed the shutter? 
+* PETA argues that authorship is broad and requires no specific intent; indeed a child who scribbles a crayon drawing technically owns legal copyright to the drawing.  Of course, we typically attribute to a child at the very least an intent to produce something, whether or not the content is sophisticated or clear. It knows that it is manipulating a marker or crayon, and can visually perceive the results of its action. But then again, so does an elephant when it paints a painting of another elephant.  Should the elephant have copyright?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5. NOTE: Environmental Personhood and Standing for Nature: Examining the Colorado River case, 17 U.N.H. L. Rev. 355
+Fall 2017
+University of New Hampshire Law Review
+
+
+Matthew Miller
+
+
+University of New Hampshire School of Law, J.D. Candidate 2019; University of Vermont, M.A. 2012; Providence College, B.A. 2009
+
+
+
+
+Notes: 
+* In 2017, the Colorado River Ecosystem brought a lawsuit(Colorado River Ecosystem v. Colorado[2017]) against the State of Colorado for violating its constitutional rights. The advocates behind this action were seeking to establish in federal court two doctrines that have made strides in other countries as part of the international Rights of Nature movement: environmental personhood and standing for nature.
+* Environmental personhood would recognize natural entities as legal persons, endowing them with corresponding rights and duties under the law. Standing for nature would allow such entities to litigate their grievances on their own behalf in court.
+* Natural entities have been awarded legal rights in New Zealand, Ecuador, Colombia, India, and local communities throughout the United States. There are two distinct legal issues embedded in this global push for the rights of nature. First, the concept of environmental personhood suggests that natural entities should have the status of other legal persons, such as corporations, in the eyes of the law.  Second, the idea of legal standing for nature would give these entities access to the legal system to seek remedies in response to violations of their fundamental rights. 
+* Constitutional jurisprudence reveals a history of expanding the Constitution's protections to new entities. Corporations, trusts, ships, joint ventures, municipalities, partnerships, and nation-states have all appeared in federal court in their own right to prosecute their interests. Collectives like families, churches, and universities "gained legal recognition as actors possessing legal rights, capacities, entitlements, and privileges before individuals did," entitling them to seek judicial relief in their own name. Corporations have particularly found the courthouse door open to them. This trend began in 1819 when the Marshall Court authorized the Trustees of Dartmouth College to bring suit against a state-approved secretary of the new board of trustees. It continues to the present in the form of the Roberts Court's extension of the First Amendment to businesses in cases such as Citizens United v. Federal Communications Commission and Burwell v. Hobby Lobby Stores.
+* Individual or organizational environmental plaintiffs must have sustained injury themselves and may not bring an action on behalf of a natural ecosystem.  This reaffirms the importance of establishing environmental personhood as a legal doctrine and allowing organizations to bring lawsuits on behalf of natural entities. In order to establish standing for nature, judges must have intellectual stepping stones to grasp its significance and to ground an opinion recognizing its existence. A potential analogue rests in the movement behind granting standing, and even legal personhood, to animals.
+* Under existing law, animals lack standing to sue in their own right, for Congress has restricted standing to "persons." But it also means that Congress can accord standing to animals if it chooses to do so.
+* The first count alleged that the failure of the courts to grant the River legal recognition constituted a violation of the Petition Clause of the First Amendment and the Due Process Clause of Fourteenth Amendment.  The plaintiffs argued that the "[d]efendant fails and refuses to recognize the rights of the Colorado River Ecosystem, including by refusing to recognize the Ecosystem's right to appear in court." 
+   * The State's failure to recognize the Ecosystem's rights as a person is too attenuated to constitute actual injury; if the Ecosystem was not recognized by the legislature as a person, then Colorado's refusal to allow it to appear in court is not a violation of the Petition Clause
+* The second count asserted that the River was entitled to legal recognition of its rights to exist, to flourish, to regenerate, to be restored, and to naturally evolve.  Here, the plaintiffs relied on the substantive due process doctrine under the Fourteenth Amendment to claim a violation of the River's right to life and liberty.
+   * This allegation suffers from a lack of particularity. In order to establish an injury, the plaintiffs need to point to specific and well-pleaded instances of actual rights violations
+* The third count claimed a violation of the River's right to equal protection. The plaintiffs contended that the State's "failure to recognize the rights of the Colorado River Ecosystem, while recognizing, and, in fact, elevating corporate rights above the Ecosystem's rights, violates the Colorado River Ecosystem's right to equal protection."
+   * There is a lack of specific violations of the Ecosystem's equal protection rights
+* The fourth count alleged that certain actions taken by the State had violated the rights of the Ecosystem to "exist, flourish, regenerate, be restored, and naturally evolve."
+   * It is not clear from the complaint that recognizing the rights of the River would adequately address these issues
+* In New Zealand, ideas of environmental personhood were partially spurred by Stone's 1972 article, which inspired two Maori scholars to advocate for granting personhood to rivers. Their efforts resulted in the decision to grant personhood to the forest Te Urewera and the Whanganui River.  In India, Rights of Nature developments followed a similar track to those in New Zealand and specific natural entities were considered for legal recognition.  In 2012, the Indian Supreme Court declared the legitimacy of considering "non-anthropocentric views of the protection of nature."  In March 2017, a court recognized the Ganga River Basin as a legal person entitled to the rights that come along with personhood.  Notably, several local communities in the United States have already taken similar measures to recognize some form of rights for nature, including Tamaqua Borough and Pittsburgh in Pennsylvania, and local communities in Maine, New Hampshire, and California.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6. NOTE: AI-Generated Fashion Designs: Who or What Owns the Goods?, 30 Fordham Intell. Prop. Media & Ent. L.J. 593
+
+
+Winter 2020
+Fordham Intellectual Property, Media & Entertainment Law Journal
+
+
+
+
+Caen A. Dennis
+J.D. Candidate, Fordham University School of Law, 2020; B.S., Legal Studies, St. John's University, 2016.
+
+
+Notes: 
+* AI tools and devices are currently being used in the fashion industry to create fashion models, fabric designs, and clothing. An AI device's ability to generate fashion designs raises the question of who will own the copyrights of the fashion designs. Designers invest a lot of talent, time, and finances into designing and creating each article of clothing and accessory it releases to the public; yet, under the current copyright standards, designers will not likely be considered the authors of their creations.
+* Claim: AI-generated and AI-assisted designs should be copyrightable and owned by the designers who purchase the AI device
+* In its Burrow-Giles Lithographic Co. v. Sarony opinion(1884), the Court stated that the author of a work is "the person who has superintended the arrangement, who has actually formed the picture by putting the persons in position, and arrang[ed] the place where the people are to be--the man who is the effective cause of that."  Using this definition, one could conclude that the camera used to take the photograph is nothing more than a tool used to create a work of art or design. Comparatively, an AI device is nothing more than a tool used to create fashion designs.
+* The District Court for the Southern District of New York decided in Lindsay v. Wrecked & Abandoned Vessel R.M.S. Titanic(1999) that one need not physically take a photo to be the author of such a photo.
+* Citing Section 201(a) of the Copyright Act of 1976, the Court explained that ownership "vests initially in the author or authors of the work." Lindsay provided the intellectual property world with another definition for "author": "[a] person who translates an idea into a fixed, tangible expression entitled to copyright protection." The Court opined that while it makes sense to think that only the videographer of what is being filmed can own the copyrights, to construe the statute this narrowly would be improper. 
+* In the Andrien v. Southern Ocean County Chamber of Commerce case(1991), the Third Circuit has also recognized that an entity may be an author when it uses mechanical means to transform an idea into something tangible.
+* In a typical work-for-hire arrangement in the United States, the employer of the author, not the author herself, would get copyright protection for whatever the author creates
+* Based on the work-for-hire doctrine in the United States, fashion designers and brands being awarded copyrights for AI-generated designs seems appropriate.
+* The United Kingdom has taken a different approach to protecting AIgenerated designs in the Copyright, Designs and Patents Act of 1988 (the "CDPA"). The CDPA specifically extended copyright protection to computer-generated works, unlike the United States, which currently does not mention computer-generated works in its statutes
+* There are a number of public benefits to legally denominating the fashion brands or designers as the owners of these AI-generated fashion-design copyrights.
